@@ -14,7 +14,7 @@
     "bundle": "run-s prepareJSON build",
     "prepareJSON": "esno scripts/build.ts",
     "bumpVersion": "standard-version",
-    "release": "run-s build bumpVersion"
+    "release": "run-s bundle bumpVersion"
   },
   "repository": {
     "type": "git",
