@@ -1,0 +1,7637 @@
+[
+  {
+    "h": 50,
+    "s": 71,
+    "l": 92,
+    "hex": "#f9f4dc",
+    "pinyin": "rubai",
+    "name": "乳白",
+    "names": [
+      "beige",
+      "cornsilk",
+      "white",
+      "lusta",
+      "fizz",
+      "solitaire",
+      "yellow",
+      "varden",
+      "cream",
+      "swizzle",
+      "heath",
+      "dawn",
+      "janna",
+      "sour",
+      "travertine",
+      "parchment",
+      "wheatfield",
+      "mist",
+      "sazerac",
+      "half",
+      "rock",
+      "special",
+      "lady",
+      "rubai",
+      "乳白"
+    ]
+  },
+  {
+    "h": 48,
+    "s": 83,
+    "l": 82,
+    "hex": "#f7e8aa",
+    "pinyin": "xingrenhuang",
+    "name": "杏仁黄",
+    "names": [
+      "palegoldenrod",
+      "sandwisp",
+      "buttermilk",
+      "white",
+      "mania",
+      "astra",
+      "honey",
+      "brulee",
+      "xingrenhuang",
+      "杏仁黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 91,
+    "l": 71,
+    "hex": "#f8df72",
+    "pinyin": "molihuang",
+    "name": "茉莉黄",
+    "names": [
+      "kournikova",
+      "sand",
+      "yellow",
+      "buff",
+      "festival",
+      "goldenrod",
+      "flax",
+      "confetti",
+      "dandelion",
+      "molihuang",
+      "茉莉黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 91,
+    "l": 71,
+    "hex": "#f8df70",
+    "pinyin": "maiganhuang",
+    "name": "麦秆黄",
+    "names": [
+      "kournikova",
+      "yellow",
+      "sand",
+      "festival",
+      "goldenrod",
+      "portica",
+      "confetti",
+      "buff",
+      "dandelion",
+      "maiganhuang",
+      "麦秆黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 96,
+    "l": 62,
+    "hex": "#fbda41",
+    "pinyin": "youcaihuahuang",
+    "name": "油菜花黄",
+    "names": [
+      "dream",
+      "sun",
+      "mustard",
+      "lemon",
+      "candlelight",
+      "yellow",
+      "youcaihuahuang",
+      "油菜花黄"
+    ]
+  },
+  {
+    "h": 50,
+    "s": 99,
+    "l": 55,
+    "hex": "#fed71a",
+    "pinyin": "foshouhuang",
+    "name": "佛手黄",
+    "names": [
+      "gold",
+      "yellow",
+      "candlelight",
+      "lemon",
+      "sun",
+      "dream",
+      "foshouhuang",
+      "佛手黄"
+    ]
+  },
+  {
+    "h": 44,
+    "s": 86,
+    "l": 78,
+    "hex": "#f7de98",
+    "pinyin": "miehuang",
+    "name": "篾黄",
+    "names": [
+      "brulee",
+      "glow",
+      "chalky",
+      "marzipan",
+      "cherokee",
+      "salomie",
+      "honey",
+      "sandwisp",
+      "orleans",
+      "miehuang",
+      "篾黄"
+    ]
+  },
+  {
+    "h": 46,
+    "s": 91,
+    "l": 69,
+    "hex": "#f8d86a",
+    "pinyin": "kuishanhuang",
+    "name": "葵扇黄",
+    "names": [
+      "goldenrod",
+      "dandelion",
+      "yellow",
+      "mustard",
+      "sand",
+      "kuishanhuang",
+      "葵扇黄"
+    ]
+  },
+  {
+    "h": 48,
+    "s": 97,
+    "l": 60,
+    "hex": "#fcd337",
+    "pinyin": "ningmenghuang",
+    "name": "柠檬黄",
+    "names": [
+      "gold",
+      "sun",
+      "sunglow",
+      "candlelight",
+      "dream",
+      "mustard",
+      "yellow",
+      "ningmenghuang",
+      "柠檬黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 97,
+    "l": 54,
+    "hex": "#fcd217",
+    "pinyin": "jinguahuang",
+    "name": "金瓜黄",
+    "names": [
+      "gold",
+      "yellow",
+      "candlelight",
+      "sun",
+      "supernova",
+      "lemon",
+      "sunglow",
+      "dream",
+      "jinguahuang",
+      "金瓜黄"
+    ]
+  },
+  {
+    "h": 48,
+    "s": 100,
+    "l": 53,
+    "hex": "#ffd111",
+    "pinyin": "tenghuang",
+    "name": "藤黄",
+    "names": [
+      "gold",
+      "yellow",
+      "supernova",
+      "sun",
+      "candlelight",
+      "sunglow",
+      "tenghuang",
+      "藤黄"
+    ]
+  },
+  {
+    "h": 40,
+    "s": 80,
+    "l": 82,
+    "hex": "#f6dead",
+    "pinyin": "laohuang",
+    "name": "酪黄",
+    "names": [
+      "wheat",
+      "moccasin",
+      "navajowhite",
+      "yellow",
+      "peach",
+      "chamois",
+      "honey",
+      "mania",
+      "cream",
+      "white",
+      "orleans",
+      "maize",
+      "givry",
+      "marzipan",
+      "caramel",
+      "astra",
+      "laohuang",
+      "酪黄"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 86,
+    "l": 77,
+    "hex": "#f7da94",
+    "pinyin": "xiangshuimeiguihuang",
+    "name": "香水玫瑰黄",
+    "names": [
+      "marzipan",
+      "cherokee",
+      "chalky",
+      "salomie",
+      "glow",
+      "brulee",
+      "orleans",
+      "putty",
+      "xiangshuimeiguihuang",
+      "香水玫瑰黄"
+    ]
+  },
+  {
+    "h": 44,
+    "s": 92,
+    "l": 69,
+    "hex": "#f9d367",
+    "pinyin": "danmihuang",
+    "name": "淡密黄",
+    "names": [
+      "goldenrod",
+      "dandelion",
+      "can",
+      "tainoi",
+      "danmihuang",
+      "淡密黄"
+    ]
+  },
+  {
+    "h": 46,
+    "s": 96,
+    "l": 59,
+    "hex": "#fbcd31",
+    "pinyin": "dadouhuang",
+    "name": "大豆黄",
+    "names": [
+      "sunglow",
+      "sun",
+      "saffron",
+      "supernova",
+      "dadouhuang",
+      "大豆黄"
+    ]
+  },
+  {
+    "h": 47,
+    "s": 97,
+    "l": 54,
+    "hex": "#fccb16",
+    "pinyin": "suxinhuang",
+    "name": "素馨黄",
+    "names": [
+      "gold",
+      "supernova",
+      "sunglow",
+      "sun",
+      "saffron",
+      "yellow",
+      "suxinhuang",
+      "素馨黄"
+    ]
+  },
+  {
+    "h": 47,
+    "s": 99,
+    "l": 53,
+    "hex": "#fecc11",
+    "pinyin": "xiangrikuihuang",
+    "name": "向日葵黄",
+    "names": [
+      "gold",
+      "supernova",
+      "sunglow",
+      "sun",
+      "saffron",
+      "xiangrikuihuang",
+      "向日葵黄"
+    ]
+  },
+  {
+    "h": 45,
+    "s": 96,
+    "l": 58,
+    "hex": "#fbc82f",
+    "pinyin": "yalihuang",
+    "name": "雅梨黄",
+    "names": [
+      "sunglow",
+      "saffron",
+      "supernova",
+      "yellow",
+      "sun",
+      "amber",
+      "yalihuang",
+      "雅梨黄"
+    ]
+  },
+  {
+    "h": 46,
+    "s": 97,
+    "l": 54,
+    "hex": "#fcc515",
+    "pinyin": "huanglianhuang",
+    "name": "黄连黄",
+    "names": [
+      "supernova",
+      "yellow",
+      "sunglow",
+      "amber",
+      "saffron",
+      "huanglianhuang",
+      "黄连黄"
+    ]
+  },
+  {
+    "h": 46,
+    "s": 98,
+    "l": 51,
+    "hex": "#fcc307",
+    "pinyin": "jinzhanhuang",
+    "name": "金盏黄",
+    "names": [
+      "yellow",
+      "supernova",
+      "amber",
+      "sunglow",
+      "saffron",
+      "jinzhanhuang",
+      "金盏黄"
+    ]
+  },
+  {
+    "h": 32,
+    "s": 89,
+    "l": 75,
+    "hex": "#f8c387",
+    "pinyin": "dankehuang",
+    "name": "蛋壳黄",
+    "names": [
+      "chardonnay",
+      "orange",
+      "manhattan",
+      "dankehuang",
+      "蛋壳黄"
+    ]
+  },
+  {
+    "h": 35,
+    "s": 89,
+    "l": 71,
+    "hex": "#f7c173",
+    "pinyin": "rouse",
+    "name": "肉色",
+    "names": [
+      "rouse",
+      "肉色"
+    ]
+  },
+  {
+    "h": 41,
+    "s": 96,
+    "l": 57,
+    "hex": "#fbb929",
+    "pinyin": "ezhanghuang",
+    "name": "鹅掌黄",
+    "names": [
+      "yellow",
+      "sin",
+      "buttercup",
+      "amber",
+      "ezhanghuang",
+      "鹅掌黄"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 97,
+    "l": 53,
+    "hex": "#fbb612",
+    "pinyin": "jidanhuang",
+    "name": "鸡蛋黄",
+    "names": [
+      "yellow",
+      "sin",
+      "buttercup",
+      "amber",
+      "sun",
+      "jidanhuang",
+      "鸡蛋黄"
+    ]
+  },
+  {
+    "h": 43,
+    "s": 98,
+    "l": 51,
+    "hex": "#fcb70a",
+    "pinyin": "youhuang",
+    "name": "鼬黄",
+    "names": [
+      "yellow",
+      "amber",
+      "sin",
+      "buttercup",
+      "youhuang",
+      "鼬黄"
+    ]
+  },
+  {
+    "h": 35,
+    "s": 94,
+    "l": 59,
+    "hex": "#f9a633",
+    "pinyin": "liuehuang",
+    "name": "榴萼黄",
+    "names": [
+      "buckthorn",
+      "orange",
+      "poppy",
+      "bush",
+      "liuehuang",
+      "榴萼黄"
+    ]
+  },
+  {
+    "h": 37,
+    "s": 97,
+    "l": 53,
+    "hex": "#fba414",
+    "pinyin": "danjucheng",
+    "name": "淡橘橙",
+    "names": [
+      "orange",
+      "peel",
+      "sea",
+      "buckthorn",
+      "california",
+      "sun",
+      "poppy",
+      "danjucheng",
+      "淡橘橙"
+    ]
+  },
+  {
+    "h": 38,
+    "s": 98,
+    "l": 51,
+    "hex": "#fca106",
+    "pinyin": "pipahuang",
+    "name": "枇杷黄",
+    "names": [
+      "orange",
+      "peel",
+      "california",
+      "buckthorn",
+      "sea",
+      "poppy",
+      "pipahuang",
+      "枇杷黄"
+    ]
+  },
+  {
+    "h": 38,
+    "s": 98,
+    "l": 50,
+    "hex": "#fca104",
+    "pinyin": "chengpihuang",
+    "name": "橙皮黄",
+    "names": [
+      "orange",
+      "peel",
+      "california",
+      "buckthorn",
+      "sea",
+      "poppy",
+      "chengpihuang",
+      "橙皮黄"
+    ]
+  },
+  {
+    "h": 29,
+    "s": 97,
+    "l": 56,
+    "hex": "#fc8c23",
+    "pinyin": "beiguahuang",
+    "name": "北瓜黄",
+    "names": [
+      "darkorange",
+      "drop",
+      "tangerine",
+      "side",
+      "carrot",
+      "beiguahuang",
+      "北瓜黄"
+    ]
+  },
+  {
+    "h": 33,
+    "s": 89,
+    "l": 52,
+    "hex": "#f28e16",
+    "pinyin": "xinghuang",
+    "name": "杏黄",
+    "names": [
+      "darkorange",
+      "orange",
+      "side",
+      "pizazz",
+      "tangerine",
+      "bell",
+      "zest",
+      "carrot",
+      "xinghuang",
+      "杏黄"
+    ]
+  },
+  {
+    "h": 36,
+    "s": 100,
+    "l": 50,
+    "hex": "#ff9900",
+    "pinyin": "xionghuang",
+    "name": "雄黄",
+    "names": [
+      "california",
+      "poppy",
+      "peel",
+      "sunshade",
+      "buckthorn",
+      "pizazz",
+      "side",
+      "xionghuang",
+      "雄黄"
+    ]
+  },
+  {
+    "h": 33,
+    "s": 97,
+    "l": 50,
+    "hex": "#fb8b05",
+    "pinyin": "wanshoujuhuang",
+    "name": "万寿菊黄",
+    "names": [
+      "darkorange",
+      "side",
+      "pizazz",
+      "tangerine",
+      "drop",
+      "wanshoujuhuang",
+      "万寿菊黄"
+    ]
+  },
+  {
+    "h": 46,
+    "s": 54,
+    "l": 81,
+    "hex": "#e9ddb6",
+    "pinyin": "juleibai",
+    "name": "菊蕾白",
+    "names": [
+      "hampton",
+      "chamois",
+      "raffia",
+      "sidecar",
+      "white",
+      "brown",
+      "givry",
+      "cream",
+      "sapling",
+      "juleibai",
+      "菊蕾白"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 83,
+    "l": 60,
+    "hex": "#eed045",
+    "pinyin": "qiukuihuang",
+    "name": "秋葵黄",
+    "names": [
+      "dream",
+      "yellow",
+      "mustard",
+      "sun",
+      "confetti",
+      "dandelion",
+      "qiukuihuang",
+      "秋葵黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 88,
+    "l": 56,
+    "hex": "#f2ce2b",
+    "pinyin": "liuhuahuang",
+    "name": "硫华黄",
+    "names": [
+      "gold",
+      "sun",
+      "dream",
+      "lemon",
+      "candlelight",
+      "sunglow",
+      "corn",
+      "saffron",
+      "liuhuahuang",
+      "硫华黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 89,
+    "l": 52,
+    "hex": "#f1ca17",
+    "pinyin": "youhuang",
+    "name": "柚黄",
+    "names": [
+      "gold",
+      "corn",
+      "sun",
+      "saffron",
+      "sunglow",
+      "supernova",
+      "dream",
+      "youhuang",
+      "柚黄"
+    ]
+  },
+  {
+    "h": 48,
+    "s": 61,
+    "l": 65,
+    "hex": "#ddc871",
+    "pinyin": "mangguohuang",
+    "name": "芒果黄",
+    "names": [
+      "chenin",
+      "tacha",
+      "mangguohuang",
+      "芒果黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 71,
+    "l": 57,
+    "hex": "#dfc243",
+    "pinyin": "haohuang",
+    "name": "蒿黄",
+    "names": [
+      "ronchi",
+      "gold",
+      "haohuang",
+      "蒿黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 76,
+    "l": 52,
+    "hex": "#e2c027",
+    "pinyin": "jianghuang",
+    "name": "姜黄",
+    "names": [
+      "tips",
+      "corn",
+      "saffron",
+      "galliano",
+      "jianghuang",
+      "姜黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 86,
+    "l": 48,
+    "hex": "#e4bf11",
+    "pinyin": "xiangjiaohuang",
+    "name": "香蕉黄",
+    "names": [
+      "corn",
+      "tips",
+      "galliano",
+      "saffron",
+      "xiangjiaohuang",
+      "香蕉黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 65,
+    "l": 50,
+    "hex": "#d2b42c",
+    "pinyin": "caohuang",
+    "name": "草黄",
+    "names": [
+      "gold",
+      "tips",
+      "galliano",
+      "green",
+      "caohuang",
+      "草黄"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 81,
+    "l": 45,
+    "hex": "#d2b116",
+    "pinyin": "xinhelv",
+    "name": "新禾绿",
+    "names": [
+      "galliano",
+      "tips",
+      "gold",
+      "xinhelv",
+      "新禾绿"
+    ]
+  },
+  {
+    "h": 47,
+    "s": 22,
+    "l": 64,
+    "hex": "#b7ae8f",
+    "pinyin": "yuehui",
+    "name": "月灰",
+    "names": [
+      "gray",
+      "hillary",
+      "tallow",
+      "yuehui",
+      "月灰"
+    ]
+  },
+  {
+    "h": 48,
+    "s": 32,
+    "l": 53,
+    "hex": "#ad9e5f",
+    "pinyin": "danhuilv",
+    "name": "淡灰绿",
+    "names": [
+      "husk",
+      "danhuilv",
+      "淡灰绿"
+    ]
+  },
+  {
+    "h": 47,
+    "s": 31,
+    "l": 43,
+    "hex": "#8e804b",
+    "pinyin": "caohuilv",
+    "name": "草灰绿",
+    "names": [
+      "caohuilv",
+      "草灰绿"
+    ]
+  },
+  {
+    "h": 48,
+    "s": 60,
+    "l": 33,
+    "hex": "#887322",
+    "pinyin": "tailv",
+    "name": "苔绿",
+    "names": [
+      "tailv",
+      "苔绿"
+    ]
+  },
+  {
+    "h": 48,
+    "s": 70,
+    "l": 31,
+    "hex": "#867018",
+    "pinyin": "biluochunlv",
+    "name": "碧螺春绿",
+    "names": [
+      "harvest",
+      "gold",
+      "biluochunlv",
+      "碧螺春绿"
+    ]
+  },
+  {
+    "h": 41,
+    "s": 18,
+    "l": 35,
+    "hex": "#685e48",
+    "pinyin": "yanyuhui",
+    "name": "燕羽灰",
+    "names": [
+      "bean",
+      "yanyuhui",
+      "燕羽灰"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 21,
+    "l": 34,
+    "hex": "#695e45",
+    "pinyin": "xiekehui",
+    "name": "蟹壳灰",
+    "names": [
+      "xiekehui",
+      "蟹壳灰"
+    ]
+  },
+  {
+    "h": 49,
+    "s": 49,
+    "l": 26,
+    "hex": "#645822",
+    "pinyin": "tanshuilv",
+    "name": "潭水绿",
+    "names": [
+      "coast",
+      "himalaya",
+      "tanshuilv",
+      "潭水绿"
+    ]
+  },
+  {
+    "h": 51,
+    "s": 65,
+    "l": 22,
+    "hex": "#5e5314",
+    "pinyin": "ganlanlv",
+    "name": "橄榄绿",
+    "names": [
+      "coast",
+      "ganlanlv",
+      "橄榄绿"
+    ]
+  },
+  {
+    "h": 44,
+    "s": 71,
+    "l": 92,
+    "hex": "#f9f1db",
+    "pinyin": "bangroubai",
+    "name": "蚌肉白",
+    "names": [
+      "beige",
+      "cornsilk",
+      "oldlace",
+      "papayawhip",
+      "antiquewhite",
+      "lusta",
+      "varden",
+      "sour",
+      "white",
+      "janna",
+      "solitaire",
+      "sazerac",
+      "parchment",
+      "fizz",
+      "yellow",
+      "dawn",
+      "lady",
+      "lace",
+      "cream",
+      "swizzle",
+      "whip",
+      "rock",
+      "wheatfield",
+      "travertine",
+      "heath",
+      "derby",
+      "bangroubai",
+      "蚌肉白"
+    ]
+  },
+  {
+    "h": 43,
+    "s": 80,
+    "l": 86,
+    "hex": "#f8e8c1",
+    "pinyin": "douzhihuang",
+    "name": "豆汁黄",
+    "names": [
+      "wheat",
+      "blanchedalmond",
+      "givry",
+      "cream",
+      "sidecar",
+      "champagne",
+      "oasis",
+      "white",
+      "beach",
+      "beeswax",
+      "astra",
+      "chamois",
+      "pipi",
+      "raffia",
+      "lusta",
+      "mania",
+      "douzhihuang",
+      "豆汁黄"
+    ]
+  },
+  {
+    "h": 45,
+    "s": 92,
+    "l": 71,
+    "hex": "#f9d770",
+    "pinyin": "danjianhuang",
+    "name": "淡茧黄",
+    "names": [
+      "goldenrod",
+      "dandelion",
+      "sand",
+      "danjianhuang",
+      "淡茧黄"
+    ]
+  },
+  {
+    "h": 47,
+    "s": 100,
+    "l": 52,
+    "hex": "#ffc90c",
+    "pinyin": "ruyahuang",
+    "name": "乳鸭黄",
+    "names": [
+      "supernova",
+      "sunglow",
+      "yellow",
+      "amber",
+      "saffron",
+      "ruyahuang",
+      "乳鸭黄"
+    ]
+  },
+  {
+    "h": 40,
+    "s": 58,
+    "l": 88,
+    "hex": "#f2e6ce",
+    "pinyin": "liroubai",
+    "name": "荔肉白",
+    "names": [
+      "antiquewhite",
+      "papayawhip",
+      "blanchedalmond",
+      "white",
+      "janna",
+      "parchment",
+      "lady",
+      "whip",
+      "cream",
+      "champagne",
+      "sour",
+      "derby",
+      "lusta",
+      "sazerac",
+      "varden",
+      "liroubai",
+      "荔肉白"
+    ]
+  },
+  {
+    "h": 43,
+    "s": 75,
+    "l": 76,
+    "hex": "#f0d695",
+    "pinyin": "xiangyahuang",
+    "name": "象牙黄",
+    "names": [
+      "chalky",
+      "marzipan",
+      "putty",
+      "orleans",
+      "cherokee",
+      "brulee",
+      "maize",
+      "zombie",
+      "glow",
+      "xiangyahuang",
+      "象牙黄"
+    ]
+  },
+  {
+    "h": 44,
+    "s": 86,
+    "l": 68,
+    "hex": "#f4ce69",
+    "pinyin": "chaomihuang",
+    "name": "炒米黄",
+    "names": [
+      "can",
+      "goldenrod",
+      "tainoi",
+      "ronchi",
+      "roy",
+      "dandelion",
+      "chaomihuang",
+      "炒米黄"
+    ]
+  },
+  {
+    "h": 45,
+    "s": 92,
+    "l": 58,
+    "hex": "#f6c430",
+    "pinyin": "yingwuguanhuang",
+    "name": "鹦鹉冠黄",
+    "names": [
+      "saffron",
+      "sunglow",
+      "yellow",
+      "supernova",
+      "corn",
+      "yingwuguanhuang",
+      "鹦鹉冠黄"
+    ]
+  },
+  {
+    "h": 45,
+    "s": 95,
+    "l": 53,
+    "hex": "#f9c116",
+    "pinyin": "muguahuang",
+    "name": "木瓜黄",
+    "names": [
+      "yellow",
+      "amber",
+      "saffron",
+      "supernova",
+      "sunglow",
+      "muguahuang",
+      "木瓜黄"
+    ]
+  },
+  {
+    "h": 45,
+    "s": 95,
+    "l": 52,
+    "hex": "#f9bd10",
+    "pinyin": "qianlaohuang",
+    "name": "浅烙黄",
+    "names": [
+      "yellow",
+      "amber",
+      "saffron",
+      "supernova",
+      "qianlaohuang",
+      "浅烙黄"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 53,
+    "l": 78,
+    "hex": "#e5d3aa",
+    "pinyin": "lianzibai",
+    "name": "莲子白",
+    "names": [
+      "wheat",
+      "hampton",
+      "chamois",
+      "raffia",
+      "brown",
+      "white",
+      "sapling",
+      "pavlova",
+      "lianzibai",
+      "莲子白"
+    ]
+  },
+  {
+    "h": 45,
+    "s": 97,
+    "l": 46,
+    "hex": "#e8b004",
+    "pinyin": "guhuang",
+    "name": "谷黄",
+    "names": [
+      "galliano",
+      "buttercup",
+      "guhuang",
+      "谷黄"
+    ]
+  },
+  {
+    "h": 44,
+    "s": 90,
+    "l": 49,
+    "hex": "#ebb10d",
+    "pinyin": "zhizihuang",
+    "name": "栀子黄",
+    "names": [
+      "buttercup",
+      "tree",
+      "zhizihuang",
+      "栀子黄"
+    ]
+  },
+  {
+    "h": 44,
+    "s": 88,
+    "l": 45,
+    "hex": "#d9a40e",
+    "pinyin": "jiehuang",
+    "name": "芥黄",
+    "names": [
+      "goldenrod",
+      "grass",
+      "jiehuang",
+      "芥黄"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 20,
+    "l": 64,
+    "hex": "#b5aa90",
+    "pinyin": "yinshuhui",
+    "name": "银鼠灰",
+    "names": [
+      "gray",
+      "hillary",
+      "olive",
+      "yinshuhui",
+      "银鼠灰"
+    ]
+  },
+  {
+    "h": 43,
+    "s": 30,
+    "l": 59,
+    "hex": "#b6a476",
+    "pinyin": "chenhui",
+    "name": "尘灰",
+    "names": [
+      "mongoose",
+      "chenhui",
+      "尘灰"
+    ]
+  },
+  {
+    "h": 45,
+    "s": 82,
+    "l": 39,
+    "hex": "#b78d12",
+    "pinyin": "kulv",
+    "name": "枯绿",
+    "names": [
+      "darkgoldenrod",
+      "marigold",
+      "alpine",
+      "nugget",
+      "kulv",
+      "枯绿"
+    ]
+  },
+  {
+    "h": 43,
+    "s": 37,
+    "l": 39,
+    "hex": "#87723e",
+    "pinyin": "jiaoqing",
+    "name": "鲛青",
+    "names": [
+      "jiaoqing",
+      "鲛青"
+    ]
+  },
+  {
+    "h": 43,
+    "s": 70,
+    "l": 31,
+    "hex": "#876818",
+    "pinyin": "zongyelv",
+    "name": "粽叶绿",
+    "names": [
+      "harvest",
+      "zongyelv",
+      "粽叶绿"
+    ]
+  },
+  {
+    "h": 43,
+    "s": 76,
+    "l": 31,
+    "hex": "#8a6913",
+    "pinyin": "huilv",
+    "name": "灰绿",
+    "names": [
+      "harvest",
+      "huilv",
+      "灰绿"
+    ]
+  },
+  {
+    "h": 31,
+    "s": 17,
+    "l": 25,
+    "hex": "#4a4035",
+    "pinyin": "hehui",
+    "name": "鹤灰",
+    "names": [
+      "taupe",
+      "mondo",
+      "armadillo",
+      "hehui",
+      "鹤灰"
+    ]
+  },
+  {
+    "h": 33,
+    "s": 23,
+    "l": 25,
+    "hex": "#4d4030",
+    "pinyin": "dansongyan",
+    "name": "淡松烟",
+    "names": [
+      "gray",
+      "mondo",
+      "dansongyan",
+      "淡松烟"
+    ]
+  },
+  {
+    "h": 44,
+    "s": 59,
+    "l": 22,
+    "hex": "#584717",
+    "pinyin": "anhaishuilv",
+    "name": "暗海水绿",
+    "names": [
+      "neck",
+      "anhaishuilv",
+      "暗海水绿"
+    ]
+  },
+  {
+    "h": 45,
+    "s": 65,
+    "l": 22,
+    "hex": "#5b4913",
+    "pinyin": "zonglvlv",
+    "name": "棕榈绿",
+    "names": [
+      "neck",
+      "coast",
+      "zonglvlv",
+      "棕榈绿"
+    ]
+  },
+  {
+    "h": 38,
+    "s": 79,
+    "l": 89,
+    "hex": "#f9e9cd",
+    "pinyin": "mise",
+    "name": "米色",
+    "names": [
+      "papayawhip",
+      "blanchedalmond",
+      "antiquewhite",
+      "whip",
+      "champagne",
+      "lady",
+      "white",
+      "oasis",
+      "beach",
+      "derby",
+      "janna",
+      "cream",
+      "parchment",
+      "sour",
+      "tequila",
+      "givry",
+      "karry",
+      "mise",
+      "米色"
+    ]
+  },
+  {
+    "h": 40,
+    "s": 84,
+    "l": 83,
+    "hex": "#f8e0b0",
+    "pinyin": "danrouse",
+    "name": "淡肉色",
+    "names": [
+      "wheat",
+      "moccasin",
+      "navajowhite",
+      "yellow",
+      "peach",
+      "cream",
+      "mania",
+      "honey",
+      "chamois",
+      "white",
+      "givry",
+      "astra",
+      "caramel",
+      "orleans",
+      "maize",
+      "frangipani",
+      "danrouse",
+      "淡肉色"
+    ]
+  },
+  {
+    "h": 41,
+    "s": 91,
+    "l": 73,
+    "hex": "#f9d27d",
+    "pinyin": "maiyatanghuang",
+    "name": "麦芽糖黄",
+    "names": [
+      "salomie",
+      "roy",
+      "grandis",
+      "goldenrod",
+      "maiyatanghuang",
+      "麦芽糖黄"
+    ]
+  },
+  {
+    "h": 43,
+    "s": 99,
+    "l": 51,
+    "hex": "#feba07",
+    "pinyin": "hupohuang",
+    "name": "琥珀黄",
+    "names": [
+      "yellow",
+      "amber",
+      "sin",
+      "hupohuang",
+      "琥珀黄"
+    ]
+  },
+  {
+    "h": 41,
+    "s": 87,
+    "l": 63,
+    "hex": "#f3bf4c",
+    "pinyin": "gancaohuang",
+    "name": "甘草黄",
+    "names": [
+      "mango",
+      "can",
+      "tree",
+      "tainoi",
+      "ronchi",
+      "anzac",
+      "gancaohuang",
+      "甘草黄"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 93,
+    "l": 58,
+    "hex": "#f8bc31",
+    "pinyin": "chushuxinghuang",
+    "name": "初熟杏黄",
+    "names": [
+      "yellow",
+      "tree",
+      "amber",
+      "saffron",
+      "chushuxinghuang",
+      "初熟杏黄"
+    ]
+  },
+  {
+    "h": 41,
+    "s": 64,
+    "l": 69,
+    "hex": "#e2c17c",
+    "pinyin": "qiantuose",
+    "name": "浅驼色",
+    "names": [
+      "apache",
+      "gold",
+      "roy",
+      "putty",
+      "qiantuose",
+      "浅驼色"
+    ]
+  },
+  {
+    "h": 41,
+    "s": 74,
+    "l": 61,
+    "hex": "#e5b751",
+    "pinyin": "shashihuang",
+    "name": "沙石黄",
+    "names": [
+      "anzac",
+      "equator",
+      "tree",
+      "shashihuang",
+      "沙石黄"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 83,
+    "l": 51,
+    "hex": "#eaad1a",
+    "pinyin": "hupihuang",
+    "name": "虎皮黄",
+    "names": [
+      "goldenrod",
+      "buttercup",
+      "yellow",
+      "tree",
+      "grass",
+      "hupihuang",
+      "虎皮黄"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 76,
+    "l": 48,
+    "hex": "#d6a01d",
+    "pinyin": "tuhuang",
+    "name": "土黄",
+    "names": [
+      "goldenrod",
+      "grass",
+      "pizza",
+      "nugget",
+      "tuhuang",
+      "土黄"
+    ]
+  },
+  {
+    "h": 41,
+    "s": 18,
+    "l": 64,
+    "hex": "#b4a992",
+    "pinyin": "bailingniaohui",
+    "name": "百灵鸟灰",
+    "names": [
+      "napa",
+      "olive",
+      "gray",
+      "malta",
+      "bailingniaohui",
+      "百灵鸟灰"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 66,
+    "l": 43,
+    "hex": "#b78b26",
+    "pinyin": "shanjihuang",
+    "name": "山鸡黄",
+    "names": [
+      "darkgoldenrod",
+      "marigold",
+      "alpine",
+      "toddy",
+      "shanjihuang",
+      "山鸡黄"
+    ]
+  },
+  {
+    "h": 36,
+    "s": 29,
+    "l": 40,
+    "hex": "#826b48",
+    "pinyin": "guibeihuang",
+    "name": "龟背黄",
+    "names": [
+      "shadow",
+      "guibeihuang",
+      "龟背黄"
+    ]
+  },
+  {
+    "h": 38,
+    "s": 44,
+    "l": 35,
+    "hex": "#806332",
+    "pinyin": "canghuang",
+    "name": "苍黄",
+    "names": [
+      "canghuang",
+      "苍黄"
+    ]
+  },
+  {
+    "h": 38,
+    "s": 55,
+    "l": 33,
+    "hex": "#815f25",
+    "pinyin": "laiyanglihuang",
+    "name": "莱阳梨黄",
+    "names": [
+      "kumera",
+      "laiyanglihuang",
+      "莱阳梨黄"
+    ]
+  },
+  {
+    "h": 38,
+    "s": 64,
+    "l": 31,
+    "hex": "#835e1d",
+    "pinyin": "yililv",
+    "name": "蜴蜊绿",
+    "names": [
+      "kumera",
+      "yililv",
+      "蜴蜊绿"
+    ]
+  },
+  {
+    "h": 29,
+    "s": 22,
+    "l": 25,
+    "hex": "#4f4032",
+    "pinyin": "songshuhui",
+    "name": "松鼠灰",
+    "names": [
+      "gray",
+      "mondo",
+      "taupe",
+      "songshuhui",
+      "松鼠灰"
+    ]
+  },
+  {
+    "h": 32,
+    "s": 31,
+    "l": 24,
+    "hex": "#503e2a",
+    "pinyin": "ganlanhui",
+    "name": "橄榄灰",
+    "names": [
+      "gray",
+      "ganlanhui",
+      "橄榄灰"
+    ]
+  },
+  {
+    "h": 34,
+    "s": 43,
+    "l": 22,
+    "hex": "#513c20",
+    "pinyin": "xiekelv",
+    "name": "蟹壳绿",
+    "names": [
+      "bronze",
+      "xiekelv",
+      "蟹壳绿"
+    ]
+  },
+  {
+    "h": 35,
+    "s": 51,
+    "l": 22,
+    "hex": "#533c1b",
+    "pinyin": "gutonglv",
+    "name": "古铜绿",
+    "names": [
+      "gutonglv",
+      "古铜绿"
+    ]
+  },
+  {
+    "h": 34,
+    "s": 56,
+    "l": 21,
+    "hex": "#553b18",
+    "pinyin": "jiaochalv",
+    "name": "焦茶绿",
+    "names": [
+      "jiaochalv",
+      "焦茶绿"
+    ]
+  },
+  {
+    "h": 38,
+    "s": 75,
+    "l": 94,
+    "hex": "#fbf2e3",
+    "pinyin": "fenbai",
+    "name": "粉白",
+    "names": [
+      "oldlace",
+      "linen",
+      "floralwhite",
+      "antiquewhite",
+      "lace",
+      "serenade",
+      "sazerac",
+      "white",
+      "merino",
+      "dawn",
+      "cream",
+      "spice",
+      "sour",
+      "varden",
+      "fenbai",
+      "粉白"
+    ]
+  },
+  {
+    "h": 35,
+    "s": 77,
+    "l": 90,
+    "hex": "#f9e8d0",
+    "pinyin": "luoyingdanfen",
+    "name": "落英淡粉",
+    "names": [
+      "antiquewhite",
+      "papayawhip",
+      "blanchedalmond",
+      "derby",
+      "whip",
+      "white",
+      "cream",
+      "karry",
+      "lady",
+      "tequila",
+      "sour",
+      "janna",
+      "sazerac",
+      "beach",
+      "almond",
+      "luoyingdanfen",
+      "落英淡粉"
+    ]
+  },
+  {
+    "h": 35,
+    "s": 90,
+    "l": 76,
+    "hex": "#f9cb8b",
+    "pinyin": "guarangfen",
+    "name": "瓜瓤粉",
+    "names": [
+      "chardonnay",
+      "grandis",
+      "guarangfen",
+      "瓜瓤粉"
+    ]
+  },
+  {
+    "h": 36,
+    "s": 95,
+    "l": 66,
+    "hex": "#fbb957",
+    "pinyin": "mihuang",
+    "name": "蜜黄",
+    "names": [
+      "casablanca",
+      "koromiko",
+      "rose",
+      "mango",
+      "orange",
+      "mihuang",
+      "蜜黄"
+    ]
+  },
+  {
+    "h": 38,
+    "s": 100,
+    "l": 53,
+    "hex": "#ffa60f",
+    "pinyin": "jinyehuang",
+    "name": "金叶黄",
+    "names": [
+      "orange",
+      "sea",
+      "peel",
+      "sun",
+      "california",
+      "buckthorn",
+      "jinyehuang",
+      "金叶黄"
+    ]
+  },
+  {
+    "h": 35,
+    "s": 89,
+    "l": 59,
+    "hex": "#f4a83a",
+    "pinyin": "jinyinghuang",
+    "name": "金莺黄",
+    "names": [
+      "orange",
+      "buckthorn",
+      "jinyinghuang",
+      "金莺黄"
+    ]
+  },
+  {
+    "h": 33,
+    "s": 61,
+    "l": 72,
+    "hex": "#e3bd8d",
+    "pinyin": "lujiaozong",
+    "name": "鹿角棕",
+    "names": [
+      "tan",
+      "burlywood",
+      "sand",
+      "calico",
+      "brandy",
+      "gold",
+      "lujiaozong",
+      "鹿角棕"
+    ]
+  },
+  {
+    "h": 35,
+    "s": 78,
+    "l": 58,
+    "hex": "#e7a23f",
+    "pinyin": "diaoyezong",
+    "name": "凋叶棕",
+    "names": [
+      "bush",
+      "diaoyezong",
+      "凋叶棕"
+    ]
+  },
+  {
+    "h": 35,
+    "s": 63,
+    "l": 60,
+    "hex": "#daa45a",
+    "pinyin": "daimaohuang",
+    "name": "玳瑁黄",
+    "names": [
+      "daimaohuang",
+      "玳瑁黄"
+    ]
+  },
+  {
+    "h": 35,
+    "s": 70,
+    "l": 57,
+    "hex": "#de9e44",
+    "pinyin": "ruanmuhuang",
+    "name": "软木黄",
+    "names": [
+      "ruanmuhuang",
+      "软木黄"
+    ]
+  },
+  {
+    "h": 36,
+    "s": 73,
+    "l": 50,
+    "hex": "#dc9123",
+    "pinyin": "fengfanhuang",
+    "name": "风帆黄",
+    "names": [
+      "dixie",
+      "bush",
+      "geebung",
+      "fengfanhuang",
+      "风帆黄"
+    ]
+  },
+  {
+    "h": 36,
+    "s": 47,
+    "l": 54,
+    "hex": "#c09351",
+    "pinyin": "guipidanzong",
+    "name": "桂皮淡棕",
+    "names": [
+      "twine",
+      "tussock",
+      "guipidanzong",
+      "桂皮淡棕"
+    ]
+  },
+  {
+    "h": 33,
+    "s": 17,
+    "l": 51,
+    "hex": "#97846c",
+    "pinyin": "houmaohui",
+    "name": "猴毛灰",
+    "names": [
+      "arrowtown",
+      "stonewall",
+      "houmaohui",
+      "猴毛灰"
+    ]
+  },
+  {
+    "h": 34,
+    "s": 62,
+    "l": 37,
+    "hex": "#986524",
+    "pinyin": "shanjihe",
+    "name": "山鸡褐",
+    "names": [
+      "shanjihe",
+      "山鸡褐"
+    ]
+  },
+  {
+    "h": 28,
+    "s": 42,
+    "l": 28,
+    "hex": "#66462a",
+    "pinyin": "tuose",
+    "name": "驼色",
+    "names": [
+      "bean",
+      "tuose",
+      "驼色"
+    ]
+  },
+  {
+    "h": 28,
+    "s": 48,
+    "l": 25,
+    "hex": "#5d3d21",
+    "pinyin": "chahe",
+    "name": "茶褐",
+    "names": [
+      "coffee",
+      "chahe",
+      "茶褐"
+    ]
+  },
+  {
+    "h": 27,
+    "s": 57,
+    "l": 23,
+    "hex": "#5c3719",
+    "pinyin": "gutonghe",
+    "name": "古铜褐",
+    "names": [
+      "gutonghe",
+      "古铜褐"
+    ]
+  },
+  {
+    "h": 29,
+    "s": 78,
+    "l": 93,
+    "hex": "#fbecde",
+    "pinyin": "hehuabai",
+    "name": "荷花白",
+    "names": [
+      "linen",
+      "antiquewhite",
+      "serenade",
+      "hehuabai",
+      "荷花白"
+    ]
+  },
+  {
+    "h": 26,
+    "s": 90,
+    "l": 74,
+    "hex": "#f8b37f",
+    "pinyin": "meiguifen",
+    "name": "玫瑰粉",
+    "names": [
+      "tacao",
+      "cheese",
+      "meiguifen",
+      "玫瑰粉"
+    ]
+  },
+  {
+    "h": 26,
+    "s": 95,
+    "l": 54,
+    "hex": "#f97d1c",
+    "pinyin": "jucheng",
+    "name": "橘橙",
+    "names": [
+      "ecstasy",
+      "sorbus",
+      "fire",
+      "flamenco",
+      "tango",
+      "orange",
+      "jucheng",
+      "橘橙"
+    ]
+  },
+  {
+    "h": 25,
+    "s": 96,
+    "l": 56,
+    "hex": "#fa7e23",
+    "pinyin": "meirenjiaocheng",
+    "name": "美人焦橙",
+    "names": [
+      "ecstasy",
+      "fire",
+      "sorbus",
+      "flamenco",
+      "tango",
+      "pumpkin",
+      "orange",
+      "meirenjiaocheng",
+      "美人焦橙"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 79,
+    "l": 85,
+    "hex": "#f7cdbc",
+    "pinyin": "runhong",
+    "name": "润红",
+    "names": [
+      "pink",
+      "zinnwaldite",
+      "runhong",
+      "润红"
+    ]
+  },
+  {
+    "h": 15,
+    "s": 75,
+    "l": 86,
+    "hex": "#f6cec1",
+    "pinyin": "dantaohong",
+    "name": "淡桃红",
+    "names": [
+      "pink",
+      "dantaohong",
+      "淡桃红"
+    ]
+  },
+  {
+    "h": 22,
+    "s": 83,
+    "l": 65,
+    "hex": "#f0945d",
+    "pinyin": "hailuocheng",
+    "name": "海螺橙",
+    "names": [
+      "hailuocheng",
+      "海螺橙"
+    ]
+  },
+  {
+    "h": 10,
+    "s": 73,
+    "l": 78,
+    "hex": "#f0ada0",
+    "pinyin": "taohong",
+    "name": "桃红",
+    "names": [
+      "bud",
+      "melon",
+      "taohong",
+      "桃红"
+    ]
+  },
+  {
+    "h": 10,
+    "s": 71,
+    "l": 77,
+    "hex": "#eeaa9c",
+    "pinyin": "jiahong",
+    "name": "颊红",
+    "names": [
+      "bud",
+      "pink",
+      "jiahong",
+      "颊红"
+    ]
+  },
+  {
+    "h": 12,
+    "s": 74,
+    "l": 74,
+    "hex": "#eea08c",
+    "pinyin": "danyingsuhong",
+    "name": "淡罂粟红",
+    "names": [
+      "pink",
+      "tangerine",
+      "danyingsuhong",
+      "淡罂粟红"
+    ]
+  },
+  {
+    "h": 20,
+    "s": 78,
+    "l": 63,
+    "hex": "#ea8958",
+    "pinyin": "chenxihong",
+    "name": "晨曦红",
+    "names": [
+      "chenxihong",
+      "晨曦红"
+    ]
+  },
+  {
+    "h": 21,
+    "s": 88,
+    "l": 58,
+    "hex": "#f27635",
+    "pinyin": "xiekehong",
+    "name": "蟹壳红",
+    "names": [
+      "crusta",
+      "tango",
+      "orange",
+      "xiekehong",
+      "蟹壳红"
+    ]
+  },
+  {
+    "h": 21,
+    "s": 94,
+    "l": 54,
+    "hex": "#f86b1d",
+    "pinyin": "jinlianhuacheng",
+    "name": "金莲花橙",
+    "names": [
+      "orange",
+      "crusta",
+      "jinlianhuacheng",
+      "金莲花橙"
+    ]
+  },
+  {
+    "h": 14,
+    "s": 84,
+    "l": 61,
+    "hex": "#ef6f48",
+    "pinyin": "caomeihong",
+    "name": "草莓红",
+    "names": [
+      "sienna",
+      "orange",
+      "caomeihong",
+      "草莓红"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 86,
+    "l": 55,
+    "hex": "#ef632b",
+    "pinyin": "longjingyuhong",
+    "name": "龙睛鱼红",
+    "names": [
+      "longjingyuhong",
+      "龙睛鱼红"
+    ]
+  },
+  {
+    "h": 11,
+    "s": 88,
+    "l": 53,
+    "hex": "#f1441d",
+    "pinyin": "qingtinghong",
+    "name": "蜻蜓红",
+    "names": [
+      "pomegranate",
+      "flamingo",
+      "qingtinghong",
+      "蜻蜓红"
+    ]
+  },
+  {
+    "h": 12,
+    "s": 87,
+    "l": 54,
+    "hex": "#f04b22",
+    "pinyin": "dahong",
+    "name": "大红",
+    "names": [
+      "pomegranate",
+      "flamingo",
+      "dahong",
+      "大红"
+    ]
+  },
+  {
+    "h": 13,
+    "s": 89,
+    "l": 53,
+    "hex": "#f2481b",
+    "pinyin": "shihong",
+    "name": "柿红",
+    "names": [
+      "pomegranate",
+      "flamingo",
+      "shihong",
+      "柿红"
+    ]
+  },
+  {
+    "h": 13,
+    "s": 90,
+    "l": 52,
+    "hex": "#f34718",
+    "pinyin": "liuhuahong",
+    "name": "榴花红",
+    "names": [
+      "orangered",
+      "pomegranate",
+      "flamingo",
+      "liuhuahong",
+      "榴花红"
+    ]
+  },
+  {
+    "h": 14,
+    "s": 95,
+    "l": 49,
+    "hex": "#f43e06",
+    "pinyin": "yinzhu",
+    "name": "银朱",
+    "names": [
+      "orangered",
+      "pomegranate",
+      "yinzhu",
+      "银朱"
+    ]
+  },
+  {
+    "h": 13,
+    "s": 85,
+    "l": 54,
+    "hex": "#ed5126",
+    "pinyin": "zhuhong",
+    "name": "朱红",
+    "names": [
+      "flamingo",
+      "pomegranate",
+      "zhuhong",
+      "朱红"
+    ]
+  },
+  {
+    "h": 26,
+    "s": 83,
+    "l": 65,
+    "hex": "#f09c5a",
+    "pinyin": "guiyuhong",
+    "name": "鲑鱼红",
+    "names": [
+      "sandybrown",
+      "brown",
+      "hide",
+      "tan",
+      "guiyuhong",
+      "鲑鱼红"
+    ]
+  },
+  {
+    "h": 22,
+    "s": 89,
+    "l": 54,
+    "hex": "#f26b1f",
+    "pinyin": "jinhuang",
+    "name": "金黄",
+    "names": [
+      "orange",
+      "jinhuang",
+      "金黄"
+    ]
+  },
+  {
+    "h": 27,
+    "s": 63,
+    "l": 59,
+    "hex": "#d99156",
+    "pinyin": "lupihe",
+    "name": "鹿皮褐",
+    "names": [
+      "serria",
+      "lupihe",
+      "鹿皮褐"
+    ]
+  },
+  {
+    "h": 27,
+    "s": 68,
+    "l": 55,
+    "hex": "#db8540",
+    "pinyin": "zuiguarou",
+    "name": "醉瓜肉",
+    "names": [
+      "zuiguarou",
+      "醉瓜肉"
+    ]
+  },
+  {
+    "h": 27,
+    "s": 74,
+    "l": 50,
+    "hex": "#de7622",
+    "pinyin": "jizong",
+    "name": "麂棕",
+    "names": [
+      "christine",
+      "tango",
+      "jizong",
+      "麂棕"
+    ]
+  },
+  {
+    "h": 30,
+    "s": 19,
+    "l": 70,
+    "hex": "#c1b2a3",
+    "pinyin": "danyinhui",
+    "name": "淡银灰",
+    "names": [
+      "malta",
+      "silk",
+      "nomad",
+      "danyinhui",
+      "淡银灰"
+    ]
+  },
+  {
+    "h": 27,
+    "s": 47,
+    "l": 52,
+    "hex": "#be7e4a",
+    "pinyin": "danzhe",
+    "name": "淡赭",
+    "names": [
+      "danzhe",
+      "淡赭"
+    ]
+  },
+  {
+    "h": 27,
+    "s": 76,
+    "l": 43,
+    "hex": "#c1651a",
+    "pinyin": "binglangzong",
+    "name": "槟榔综",
+    "names": [
+      "binglangzong",
+      "槟榔综"
+    ]
+  },
+  {
+    "h": 27,
+    "s": 12,
+    "l": 51,
+    "hex": "#918072",
+    "pinyin": "yinhui",
+    "name": "银灰",
+    "names": [
+      "squirrel",
+      "yinhui",
+      "银灰"
+    ]
+  },
+  {
+    "h": 28,
+    "s": 14,
+    "l": 54,
+    "hex": "#9a8878",
+    "pinyin": "haiouhui",
+    "name": "海鸥灰",
+    "names": [
+      "squirrel",
+      "stonewall",
+      "haiouhui",
+      "海鸥灰"
+    ]
+  },
+  {
+    "h": 23,
+    "s": 49,
+    "l": 39,
+    "hex": "#945833",
+    "pinyin": "dankafei",
+    "name": "淡咖啡",
+    "names": [
+      "clay",
+      "dankafei",
+      "淡咖啡"
+    ]
+  },
+  {
+    "h": 22,
+    "s": 63,
+    "l": 36,
+    "hex": "#964d22",
+    "pinyin": "yanshizong",
+    "name": "岩石棕",
+    "names": [
+      "rope",
+      "yanshizong",
+      "岩石棕"
+    ]
+  },
+  {
+    "h": 22,
+    "s": 74,
+    "l": 34,
+    "hex": "#954416",
+    "pinyin": "mangguozong",
+    "name": "芒果棕",
+    "names": [
+      "mangguozong",
+      "芒果棕"
+    ]
+  },
+  {
+    "h": 15,
+    "s": 20,
+    "l": 32,
+    "hex": "#624941",
+    "pinyin": "shibanhui",
+    "name": "石板灰",
+    "names": [
+      "kabul",
+      "shibanhui",
+      "石板灰"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 24,
+    "l": 32,
+    "hex": "#64483d",
+    "pinyin": "zhumuhui",
+    "name": "珠母灰",
+    "names": [
+      "kabul",
+      "zhumuhui",
+      "珠母灰"
+    ]
+  },
+  {
+    "h": 18,
+    "s": 59,
+    "l": 28,
+    "hex": "#71361d",
+    "pinyin": "dingxiangzong",
+    "name": "丁香棕",
+    "names": [
+      "dingxiangzong",
+      "丁香棕"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 67,
+    "l": 27,
+    "hex": "#753117",
+    "pinyin": "kafei",
+    "name": "咖啡",
+    "names": [
+      "peanut",
+      "mocha",
+      "pueblo",
+      "kafei",
+      "咖啡"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 73,
+    "l": 26,
+    "hex": "#732e12",
+    "pinyin": "sunpizong",
+    "name": "筍皮棕",
+    "names": [
+      "peanut",
+      "heath",
+      "sunpizong",
+      "筍皮棕"
+    ]
+  },
+  {
+    "h": 20,
+    "s": 97,
+    "l": 54,
+    "hex": "#fc6315",
+    "pinyin": "yanhanhong",
+    "name": "燕颔红",
+    "names": [
+      "orange",
+      "yanhanhong",
+      "燕颔红"
+    ]
+  },
+  {
+    "h": 20,
+    "s": 63,
+    "l": 76,
+    "hex": "#e8b49a",
+    "pinyin": "yufenhong",
+    "name": "玉粉红",
+    "names": [
+      "yufenhong",
+      "玉粉红"
+    ]
+  },
+  {
+    "h": 20,
+    "s": 78,
+    "l": 53,
+    "hex": "#e46828",
+    "pinyin": "jintuo",
+    "name": "金驼",
+    "names": [
+      "jintuo",
+      "金驼"
+    ]
+  },
+  {
+    "h": 21,
+    "s": 82,
+    "l": 47,
+    "hex": "#d85916",
+    "pinyin": "tiezong",
+    "name": "铁棕",
+    "names": [
+      "tiezong",
+      "铁棕"
+    ]
+  },
+  {
+    "h": 24,
+    "s": 21,
+    "l": 64,
+    "hex": "#b7a091",
+    "pinyin": "zhuwanghui",
+    "name": "蛛网灰",
+    "names": [
+      "zhuwanghui",
+      "蛛网灰"
+    ]
+  },
+  {
+    "h": 20,
+    "s": 73,
+    "l": 42,
+    "hex": "#b7511d",
+    "pinyin": "dankekezong",
+    "name": "淡可可棕",
+    "names": [
+      "vesuvius",
+      "orange",
+      "spray",
+      "roughy",
+      "dankekezong",
+      "淡可可棕"
+    ]
+  },
+  {
+    "h": 19,
+    "s": 29,
+    "l": 42,
+    "hex": "#8b614d",
+    "pinyin": "zhonghonghui",
+    "name": "中红灰",
+    "names": [
+      "zhonghonghui",
+      "中红灰"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 48,
+    "l": 37,
+    "hex": "#8c4b31",
+    "pinyin": "dantuhuang",
+    "name": "淡土黄",
+    "names": [
+      "fawn",
+      "dantuhuang",
+      "淡土黄"
+    ]
+  },
+  {
+    "h": 15,
+    "s": 58,
+    "l": 34,
+    "hex": "#873d24",
+    "pinyin": "dandousha",
+    "name": "淡豆沙",
+    "names": [
+      "nutmeg",
+      "fawn",
+      "robin",
+      "dandousha",
+      "淡豆沙"
+    ]
+  },
+  {
+    "h": 16,
+    "s": 64,
+    "l": 33,
+    "hex": "#883a1e",
+    "pinyin": "yekezong",
+    "name": "椰壳棕",
+    "names": [
+      "yekezong",
+      "椰壳棕"
+    ]
+  },
+  {
+    "h": 15,
+    "s": 22,
+    "l": 29,
+    "hex": "#5b423a",
+    "pinyin": "dantiehui",
+    "name": "淡铁灰",
+    "names": [
+      "kabul",
+      "dantiehui",
+      "淡铁灰"
+    ]
+  },
+  {
+    "h": 16,
+    "s": 33,
+    "l": 28,
+    "hex": "#603d30",
+    "pinyin": "zhonghuituo",
+    "name": "中灰驼",
+    "names": [
+      "quincy",
+      "zhonghuituo",
+      "中灰驼"
+    ]
+  },
+  {
+    "h": 14,
+    "s": 48,
+    "l": 27,
+    "hex": "#673424",
+    "pinyin": "danlizong",
+    "name": "淡栗棕",
+    "names": [
+      "danlizong",
+      "淡栗棕"
+    ]
+  },
+  {
+    "h": 12,
+    "s": 57,
+    "l": 25,
+    "hex": "#652b1c",
+    "pinyin": "kekezong",
+    "name": "可可棕",
+    "names": [
+      "espresso",
+      "heath",
+      "kekezong",
+      "可可棕"
+    ]
+  },
+  {
+    "h": 12,
+    "s": 59,
+    "l": 26,
+    "hex": "#692a1b",
+    "pinyin": "zhayezong",
+    "name": "柞叶棕",
+    "names": [
+      "copper",
+      "espresso",
+      "heath",
+      "zhayezong",
+      "柞叶棕"
+    ]
+  },
+  {
+    "h": 20,
+    "s": 95,
+    "l": 70,
+    "hex": "#fb9968",
+    "pinyin": "yeqiangweihong",
+    "name": "野蔷薇红",
+    "names": [
+      "tangerine",
+      "yeqiangweihong",
+      "野蔷薇红"
+    ]
+  },
+  {
+    "h": 21,
+    "s": 97,
+    "l": 59,
+    "hex": "#fc7930",
+    "pinyin": "boluohong",
+    "name": "菠萝红",
+    "names": [
+      "crusta",
+      "pumpkin",
+      "tango",
+      "boluohong",
+      "菠萝红"
+    ]
+  },
+  {
+    "h": 20,
+    "s": 64,
+    "l": 81,
+    "hex": "#edc3ae",
+    "pinyin": "ouhe",
+    "name": "藕荷",
+    "names": [
+      "zinnwaldite",
+      "cashmere",
+      "ouhe",
+      "藕荷"
+    ]
+  },
+  {
+    "h": 21,
+    "s": 76,
+    "l": 51,
+    "hex": "#e16723",
+    "pinyin": "taocihong",
+    "name": "陶瓷红",
+    "names": [
+      "taocihong",
+      "陶瓷红"
+    ]
+  },
+  {
+    "h": 27,
+    "s": 25,
+    "l": 77,
+    "hex": "#d4c4b7",
+    "pinyin": "xiaohui",
+    "name": "晓灰",
+    "names": [
+      "xiaohui",
+      "晓灰"
+    ]
+  },
+  {
+    "h": 21,
+    "s": 59,
+    "l": 54,
+    "hex": "#cf7543",
+    "pinyin": "yujinhong",
+    "name": "余烬红",
+    "names": [
+      "sienna",
+      "yujinhong",
+      "余烬红"
+    ]
+  },
+  {
+    "h": 21,
+    "s": 68,
+    "l": 48,
+    "hex": "#cd6227",
+    "pinyin": "huozhuanhong",
+    "name": "火砖红",
+    "names": [
+      "piper",
+      "roughy",
+      "huozhuanhong",
+      "火砖红"
+    ]
+  },
+  {
+    "h": 19,
+    "s": 38,
+    "l": 48,
+    "hex": "#aa6a4c",
+    "pinyin": "huonizong",
+    "name": "火泥棕",
+    "names": [
+      "palliser",
+      "sepia",
+      "huonizong",
+      "火泥棕"
+    ]
+  },
+  {
+    "h": 19,
+    "s": 58,
+    "l": 41,
+    "hex": "#a6522c",
+    "pinyin": "ganhong",
+    "name": "绀红",
+    "names": [
+      "sienna",
+      "paarl",
+      "ganhong",
+      "绀红"
+    ]
+  },
+  {
+    "h": 10,
+    "s": 42,
+    "l": 33,
+    "hex": "#773d31",
+    "pinyin": "xiangshuzong",
+    "name": "橡树棕",
+    "names": [
+      "xiangshuzong",
+      "橡树棕"
+    ]
+  },
+  {
+    "h": 3,
+    "s": 18,
+    "l": 24,
+    "hex": "#483332",
+    "pinyin": "haibaohui",
+    "name": "海报灰",
+    "names": [
+      "brown",
+      "haibaohui",
+      "海报灰"
+    ]
+  },
+  {
+    "h": 6,
+    "s": 27,
+    "l": 23,
+    "hex": "#4b2e2b",
+    "pinyin": "meiguihui",
+    "name": "玫瑰灰",
+    "names": [
+      "brown",
+      "meiguihui",
+      "玫瑰灰"
+    ]
+  },
+  {
+    "h": 5,
+    "s": 36,
+    "l": 21,
+    "hex": "#482522",
+    "pinyin": "huoshanzong",
+    "name": "火山棕",
+    "names": [
+      "brown",
+      "huoshanzong",
+      "火山棕"
+    ]
+  },
+  {
+    "h": 3,
+    "s": 44,
+    "l": 20,
+    "hex": "#481e1c",
+    "pinyin": "dousha",
+    "name": "豆沙",
+    "names": [
+      "bean",
+      "dousha",
+      "豆沙"
+    ]
+  },
+  {
+    "h": 29,
+    "s": 76,
+    "l": 94,
+    "hex": "#fbeee2",
+    "pinyin": "danmifen",
+    "name": "淡米粉",
+    "names": [
+      "linen",
+      "seashell",
+      "oldlace",
+      "serenade",
+      "peach",
+      "merino",
+      "lace",
+      "danmifen",
+      "淡米粉"
+    ]
+  },
+  {
+    "h": 21,
+    "s": 69,
+    "l": 89,
+    "hex": "#f6dcce",
+    "pinyin": "chutaofenhong",
+    "name": "初桃粉红",
+    "names": [
+      "bush",
+      "watusi",
+      "chutaofenhong",
+      "初桃粉红"
+    ]
+  },
+  {
+    "h": 21,
+    "s": 79,
+    "l": 85,
+    "hex": "#f7cfba",
+    "pinyin": "jieqiaodanfenhong",
+    "name": "介壳淡粉红",
+    "names": [
+      "romantic",
+      "zinnwaldite",
+      "right",
+      "sand",
+      "jieqiaodanfenhong",
+      "介壳淡粉红"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 85,
+    "l": 76,
+    "hex": "#f6ad8f",
+    "pinyin": "dancanghuahong",
+    "name": "淡藏花红",
+    "names": [
+      "dancanghuahong",
+      "淡藏花红"
+    ]
+  },
+  {
+    "h": 18,
+    "s": 89,
+    "l": 67,
+    "hex": "#f68c60",
+    "pinyin": "guaranghong",
+    "name": "瓜瓤红",
+    "names": [
+      "guaranghong",
+      "瓜瓤红"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 94,
+    "l": 61,
+    "hex": "#f9723d",
+    "pinyin": "furonghong",
+    "name": "芙蓉红",
+    "names": [
+      "coral",
+      "orange",
+      "furonghong",
+      "芙蓉红"
+    ]
+  },
+  {
+    "h": 18,
+    "s": 96,
+    "l": 54,
+    "hex": "#fa5d19",
+    "pinyin": "meijianghong",
+    "name": "莓酱红",
+    "names": [
+      "orange",
+      "vermilion",
+      "meijianghong",
+      "莓酱红"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 82,
+    "l": 63,
+    "hex": "#ee8055",
+    "pinyin": "faluohong",
+    "name": "法螺红",
+    "names": [
+      "coral",
+      "sienna",
+      "faluohong",
+      "法螺红"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 83,
+    "l": 44,
+    "hex": "#cf4813",
+    "pinyin": "luoxiahong",
+    "name": "落霞红",
+    "names": [
+      "grenadier",
+      "maria",
+      "luoxiahong",
+      "落霞红"
+    ]
+  },
+  {
+    "h": 18,
+    "s": 26,
+    "l": 62,
+    "hex": "#b89485",
+    "pinyin": "danmeiguihui",
+    "name": "淡玫瑰灰",
+    "names": [
+      "danmeiguihui",
+      "淡玫瑰灰"
+    ]
+  },
+  {
+    "h": 15,
+    "s": 63,
+    "l": 43,
+    "hex": "#b14b28",
+    "pinyin": "xiemaohong",
+    "name": "蟹蝥红",
+    "names": [
+      "xiemaohong",
+      "蟹蝥红"
+    ]
+  },
+  {
+    "h": 9,
+    "s": 61,
+    "l": 33,
+    "hex": "#863020",
+    "pinyin": "huoyanzong",
+    "name": "火岩棕",
+    "names": [
+      "umber",
+      "robin",
+      "huoyanzong",
+      "火岩棕"
+    ]
+  },
+  {
+    "h": 8,
+    "s": 71,
+    "l": 31,
+    "hex": "#862617",
+    "pinyin": "zheshi",
+    "name": "赭石",
+    "names": [
+      "zheshi",
+      "赭石"
+    ]
+  },
+  {
+    "h": 6,
+    "s": 47,
+    "l": 24,
+    "hex": "#592620",
+    "pinyin": "antuozong",
+    "name": "暗驼棕",
+    "names": [
+      "antuozong",
+      "暗驼棕"
+    ]
+  },
+  {
+    "h": 4,
+    "s": 54,
+    "l": 23,
+    "hex": "#5a1f1b",
+    "pinyin": "jiangzong",
+    "name": "酱棕",
+    "names": [
+      "jiangzong",
+      "酱棕"
+    ]
+  },
+  {
+    "h": 4,
+    "s": 57,
+    "l": 23,
+    "hex": "#5c1e19",
+    "pinyin": "lizong",
+    "name": "栗棕",
+    "names": [
+      "cherrywood",
+      "lizong",
+      "栗棕"
+    ]
+  },
+  {
+    "h": 13,
+    "s": 73,
+    "l": 84,
+    "hex": "#f4c7ba",
+    "pinyin": "yangshuixianhong",
+    "name": "洋水仙红",
+    "names": [
+      "pink",
+      "yangshuixianhong",
+      "洋水仙红"
+    ]
+  },
+  {
+    "h": 7,
+    "s": 83,
+    "l": 67,
+    "hex": "#f17666",
+    "pinyin": "guqiaohong",
+    "name": "谷鞘红",
+    "names": [
+      "salmon",
+      "bittersweet",
+      "terracotta",
+      "guqiaohong",
+      "谷鞘红"
+    ]
+  },
+  {
+    "h": 7,
+    "s": 86,
+    "l": 60,
+    "hex": "#f15642",
+    "pinyin": "pingguohong",
+    "name": "苹果红",
+    "names": [
+      "orange",
+      "pingguohong",
+      "苹果红"
+    ]
+  },
+  {
+    "h": 8,
+    "s": 92,
+    "l": 54,
+    "hex": "#f5391c",
+    "pinyin": "tieshuihong",
+    "name": "铁水红",
+    "names": [
+      "pomegranate",
+      "scarlet",
+      "tieshuihong",
+      "铁水红"
+    ]
+  },
+  {
+    "h": 7,
+    "s": 87,
+    "l": 61,
+    "hex": "#f25a47",
+    "pinyin": "guihong",
+    "name": "桂红",
+    "names": [
+      "tomato",
+      "orange",
+      "guihong",
+      "桂红"
+    ]
+  },
+  {
+    "h": 8,
+    "s": 90,
+    "l": 54,
+    "hex": "#f33b1f",
+    "pinyin": "jiguanghong",
+    "name": "极光红",
+    "names": [
+      "pomegranate",
+      "jiguanghong",
+      "极光红"
+    ]
+  },
+  {
+    "h": 7,
+    "s": 71,
+    "l": 82,
+    "hex": "#f2b9b2",
+    "pinyin": "fenhong",
+    "name": "粉红",
+    "names": [
+      "shilo",
+      "fog",
+      "pink",
+      "bush",
+      "melon",
+      "fenhong",
+      "粉红"
+    ]
+  },
+  {
+    "h": 4,
+    "s": 78,
+    "l": 75,
+    "hex": "#f19790",
+    "pinyin": "shehong",
+    "name": "舌红",
+    "names": [
+      "lisa",
+      "shehong",
+      "舌红"
+    ]
+  },
+  {
+    "h": 7,
+    "s": 85,
+    "l": 61,
+    "hex": "#f05a46",
+    "pinyin": "quhong",
+    "name": "曲红",
+    "names": [
+      "orange",
+      "quhong",
+      "曲红"
+    ]
+  },
+  {
+    "h": 8,
+    "s": 89,
+    "l": 54,
+    "hex": "#f23e23",
+    "pinyin": "honggonghong",
+    "name": "红汞红",
+    "names": [
+      "pomegranate",
+      "honggonghong",
+      "红汞红"
+    ]
+  },
+  {
+    "h": 1,
+    "s": 61,
+    "l": 87,
+    "hex": "#f2cac9",
+    "pinyin": "danfei",
+    "name": "淡绯",
+    "names": [
+      "bush",
+      "pink",
+      "cosmos",
+      "danfei",
+      "淡绯"
+    ]
+  },
+  {
+    "h": 2,
+    "s": 67,
+    "l": 81,
+    "hex": "#efafad",
+    "pinyin": "wuhuaguohong",
+    "name": "无花果红",
+    "names": [
+      "lilac",
+      "sundown",
+      "wuhuaguohong",
+      "无花果红"
+    ]
+  },
+  {
+    "h": 2,
+    "s": 78,
+    "l": 75,
+    "hex": "#f1908c",
+    "pinyin": "liuzihong",
+    "name": "榴子红",
+    "names": [
+      "geraldine",
+      "liuzihong",
+      "榴子红"
+    ]
+  },
+  {
+    "h": 8,
+    "s": 87,
+    "l": 54,
+    "hex": "#f03f24",
+    "pinyin": "yanzhihong",
+    "name": "胭脂红",
+    "names": [
+      "pomegranate",
+      "yanzhihong",
+      "胭脂红"
+    ]
+  },
+  {
+    "h": 355,
+    "s": 72,
+    "l": 79,
+    "hex": "#f0a1a8",
+    "pinyin": "hehuanhong",
+    "name": "合欢红",
+    "names": [
+      "pink",
+      "wewak",
+      "hehuanhong",
+      "合欢红"
+    ]
+  },
+  {
+    "h": 354,
+    "s": 77,
+    "l": 76,
+    "hex": "#f1939c",
+    "pinyin": "chunmeihong",
+    "name": "春梅红",
+    "names": [
+      "pink",
+      "salmon",
+      "chunmeihong",
+      "春梅红"
+    ]
+  },
+  {
+    "h": 357,
+    "s": 79,
+    "l": 71,
+    "hex": "#f07c82",
+    "pinyin": "xiangyehong",
+    "name": "香叶红",
+    "names": [
+      "lightcoral",
+      "froly",
+      "geraldine",
+      "xiangyehong",
+      "香叶红"
+    ]
+  },
+  {
+    "h": 5,
+    "s": 86,
+    "l": 58,
+    "hex": "#f04a3a",
+    "pinyin": "shanhuhong",
+    "name": "珊瑚红",
+    "names": [
+      "orange",
+      "cinnabar",
+      "shanhuhong",
+      "珊瑚红"
+    ]
+  },
+  {
+    "h": 8,
+    "s": 88,
+    "l": 54,
+    "hex": "#f13c22",
+    "pinyin": "luobohong",
+    "name": "萝卜红",
+    "names": [
+      "pomegranate",
+      "luobohong",
+      "萝卜红"
+    ]
+  },
+  {
+    "h": 350,
+    "s": 69,
+    "l": 70,
+    "hex": "#e77c8e",
+    "pinyin": "danqianhong",
+    "name": "淡茜红",
+    "names": [
+      "danqianhong",
+      "淡茜红"
+    ]
+  },
+  {
+    "h": 356,
+    "s": 80,
+    "l": 64,
+    "hex": "#ed5a65",
+    "pinyin": "yanhong",
+    "name": "艳红",
+    "names": [
+      "carnation",
+      "mandy",
+      "yanhong",
+      "艳红"
+    ]
+  },
+  {
+    "h": 1,
+    "s": 82,
+    "l": 60,
+    "hex": "#ed4845",
+    "pinyin": "danshuhong",
+    "name": "淡菽红",
+    "names": [
+      "red",
+      "danshuhong",
+      "淡菽红"
+    ]
+  },
+  {
+    "h": 4,
+    "s": 84,
+    "l": 56,
+    "hex": "#ed3b2f",
+    "pinyin": "yusaihong",
+    "name": "鱼鳃红",
+    "names": [
+      "cinnabar",
+      "punch",
+      "orange",
+      "yusaihong",
+      "鱼鳃红"
+    ]
+  },
+  {
+    "h": 5,
+    "s": 85,
+    "l": 53,
+    "hex": "#ed3321",
+    "pinyin": "yingtaohong",
+    "name": "樱桃红",
+    "names": [
+      "yingtaohong",
+      "樱桃红"
+    ]
+  },
+  {
+    "h": 349,
+    "s": 83,
+    "l": 61,
+    "hex": "#ee4866",
+    "pinyin": "danruixianghong",
+    "name": "淡蕊香红",
+    "names": [
+      "mandy",
+      "red",
+      "danruixianghong",
+      "淡蕊香红"
+    ]
+  },
+  {
+    "h": 350,
+    "s": 83,
+    "l": 61,
+    "hex": "#ee4863",
+    "pinyin": "shizhuhong",
+    "name": "石竹红",
+    "names": [
+      "mandy",
+      "red",
+      "shizhuhong",
+      "石竹红"
+    ]
+  },
+  {
+    "h": 352,
+    "s": 84,
+    "l": 61,
+    "hex": "#ef475d",
+    "pinyin": "caomolihong",
+    "name": "草茉莉红",
+    "names": [
+      "mandy",
+      "red",
+      "caomolihong",
+      "草茉莉红"
+    ]
+  },
+  {
+    "h": 355,
+    "s": 84,
+    "l": 59,
+    "hex": "#ee3f4d",
+    "pinyin": "chahuahong",
+    "name": "茶花红",
+    "names": [
+      "scarlet",
+      "chahuahong",
+      "茶花红"
+    ]
+  },
+  {
+    "h": 0,
+    "s": 84,
+    "l": 56,
+    "hex": "#ed3333",
+    "pinyin": "goushuhong",
+    "name": "枸枢红",
+    "names": [
+      "cinnabar",
+      "goushuhong",
+      "枸枢红"
+    ]
+  },
+  {
+    "h": 2,
+    "s": 84,
+    "l": 53,
+    "hex": "#ec2b24",
+    "pinyin": "qiuhaitanghong",
+    "name": "秋海棠红",
+    "names": [
+      "cinnabar",
+      "qiuhaitanghong",
+      "秋海棠红"
+    ]
+  },
+  {
+    "h": 3,
+    "s": 84,
+    "l": 51,
+    "hex": "#eb261a",
+    "pinyin": "lichunhong",
+    "name": "丽春红",
+    "names": [
+      "lichunhong",
+      "丽春红"
+    ]
+  },
+  {
+    "h": 5,
+    "s": 80,
+    "l": 48,
+    "hex": "#de2a18",
+    "pinyin": "xiyanghong",
+    "name": "夕阳红",
+    "names": [
+      "xiyanghong",
+      "夕阳红"
+    ]
+  },
+  {
+    "h": 4,
+    "s": 80,
+    "l": 46,
+    "hex": "#d42517",
+    "pinyin": "hedinghong",
+    "name": "鹤顶红",
+    "names": [
+      "hedinghong",
+      "鹤顶红"
+    ]
+  },
+  {
+    "h": 4,
+    "s": 57,
+    "l": 43,
+    "hex": "#ab372f",
+    "pinyin": "exueshihong",
+    "name": "鹅血石红",
+    "names": [
+      "brown",
+      "carmine",
+      "read",
+      "poppy",
+      "exueshihong",
+      "鹅血石红"
+    ]
+  },
+  {
+    "h": 3,
+    "s": 76,
+    "l": 38,
+    "hex": "#ac1f18",
+    "pinyin": "fupenzihong",
+    "name": "覆盆子红",
+    "names": [
+      "firebrick",
+      "terracotta",
+      "tabasco",
+      "fupenzihong",
+      "覆盆子红"
+    ]
+  },
+  {
+    "h": 0,
+    "s": 31,
+    "l": 28,
+    "hex": "#5d3131",
+    "pinyin": "diaozi",
+    "name": "貂紫",
+    "names": [
+      "buccaneer",
+      "brown",
+      "diaozi",
+      "貂紫"
+    ]
+  },
+  {
+    "h": 359,
+    "s": 46,
+    "l": 25,
+    "hex": "#5c2223",
+    "pinyin": "anyuzi",
+    "name": "暗玉紫",
+    "names": [
+      "anyuzi",
+      "暗玉紫"
+    ]
+  },
+  {
+    "h": 358,
+    "s": 57,
+    "l": 23,
+    "hex": "#5a191b",
+    "pinyin": "lizi",
+    "name": "栗紫",
+    "names": [
+      "lizi",
+      "栗紫"
+    ]
+  },
+  {
+    "h": 357,
+    "s": 67,
+    "l": 21,
+    "hex": "#5a1216",
+    "pinyin": "putaojiangzi",
+    "name": "葡萄酱紫",
+    "names": [
+      "heath",
+      "putaojiangzi",
+      "葡萄酱紫"
+    ]
+  },
+  {
+    "h": 358,
+    "s": 69,
+    "l": 78,
+    "hex": "#eea2a4",
+    "pinyin": "mudanfenhong",
+    "name": "牡丹粉红",
+    "names": [
+      "pink",
+      "mudanfenhong",
+      "牡丹粉红"
+    ]
+  },
+  {
+    "h": 352,
+    "s": 81,
+    "l": 63,
+    "hex": "#ed556a",
+    "pinyin": "shanchahong",
+    "name": "山茶红",
+    "names": [
+      "mandy",
+      "watermelon",
+      "red",
+      "shanchahong",
+      "山茶红"
+    ]
+  },
+  {
+    "h": 351,
+    "s": 86,
+    "l": 58,
+    "hex": "#f03752",
+    "pinyin": "haitanghong",
+    "name": "海棠红",
+    "names": [
+      "amaranth",
+      "red",
+      "haitanghong",
+      "海棠红"
+    ]
+  },
+  {
+    "h": 356,
+    "s": 49,
+    "l": 52,
+    "hex": "#c04851",
+    "pinyin": "yuhong",
+    "name": "玉红",
+    "names": [
+      "red",
+      "yuhong",
+      "玉红"
+    ]
+  },
+  {
+    "h": 355,
+    "s": 63,
+    "l": 46,
+    "hex": "#c02c38",
+    "pinyin": "gaolianghong",
+    "name": "高粱红",
+    "names": [
+      "cardinal",
+      "red",
+      "read",
+      "gaolianghong",
+      "高粱红"
+    ]
+  },
+  {
+    "h": 355,
+    "s": 34,
+    "l": 49,
+    "hex": "#a7535a",
+    "pinyin": "manjianghong",
+    "name": "满江红",
+    "names": [
+      "manjianghong",
+      "满江红"
+    ]
+  },
+  {
+    "h": 353,
+    "s": 68,
+    "l": 29,
+    "hex": "#7c1823",
+    "pinyin": "zaohong",
+    "name": "枣红",
+    "names": [
+      "merlot",
+      "thorns",
+      "zaohong",
+      "枣红"
+    ]
+  },
+  {
+    "h": 353,
+    "s": 42,
+    "l": 21,
+    "hex": "#4c1f24",
+    "pinyin": "putaozi",
+    "name": "葡萄紫",
+    "names": [
+      "brown",
+      "putaozi",
+      "葡萄紫"
+    ]
+  },
+  {
+    "h": 352,
+    "s": 66,
+    "l": 18,
+    "hex": "#4d1018",
+    "pinyin": "jiangzi",
+    "name": "酱紫",
+    "names": [
+      "oak",
+      "sav",
+      "jiangzi",
+      "酱紫"
+    ]
+  },
+  {
+    "h": 351,
+    "s": 85,
+    "l": 54,
+    "hex": "#ee2746",
+    "pinyin": "danshuhong",
+    "name": "淡曙红",
+    "names": [
+      "ribbon",
+      "red",
+      "scarlet",
+      "danshuhong",
+      "淡曙红"
+    ]
+  },
+  {
+    "h": 354,
+    "s": 78,
+    "l": 49,
+    "hex": "#de1c31",
+    "pinyin": "tangchangpuhong",
+    "name": "唐菖蒲红",
+    "names": [
+      "crimson",
+      "tangchangpuhong",
+      "唐菖蒲红"
+    ]
+  },
+  {
+    "h": 354,
+    "s": 78,
+    "l": 46,
+    "hex": "#d11a2d",
+    "pinyin": "eguanhong",
+    "name": "鹅冠红",
+    "names": [
+      "red",
+      "mahogany",
+      "monza",
+      "eguanhong",
+      "鹅冠红"
+    ]
+  },
+  {
+    "h": 354,
+    "s": 47,
+    "l": 56,
+    "hex": "#c45a65",
+    "pinyin": "meihong",
+    "name": "莓红",
+    "names": [
+      "meihong",
+      "莓红"
+    ]
+  },
+  {
+    "h": 354,
+    "s": 72,
+    "l": 44,
+    "hex": "#c21f30",
+    "pinyin": "fengyehong",
+    "name": "枫叶红",
+    "names": [
+      "cardinal",
+      "read",
+      "fengyehong",
+      "枫叶红"
+    ]
+  },
+  {
+    "h": 354,
+    "s": 72,
+    "l": 38,
+    "hex": "#a61b29",
+    "pinyin": "xiancaihong",
+    "name": "苋菜红",
+    "names": [
+      "brown",
+      "red",
+      "xiancaihong",
+      "苋菜红"
+    ]
+  },
+  {
+    "h": 354,
+    "s": 27,
+    "l": 42,
+    "hex": "#894e54",
+    "pinyin": "yanhong",
+    "name": "烟红",
+    "names": [
+      "yanhong",
+      "烟红"
+    ]
+  },
+  {
+    "h": 353,
+    "s": 60,
+    "l": 32,
+    "hex": "#82202b",
+    "pinyin": "anziyuanhong",
+    "name": "暗紫苑红",
+    "names": [
+      "merlot",
+      "anziyuanhong",
+      "暗紫苑红"
+    ]
+  },
+  {
+    "h": 353,
+    "s": 77,
+    "l": 29,
+    "hex": "#82111f",
+    "pinyin": "yanhong",
+    "name": "殷红",
+    "names": [
+      "merlot",
+      "monarch",
+      "thorns",
+      "red",
+      "burgundy",
+      "yanhong",
+      "殷红"
+    ]
+  },
+  {
+    "h": 353,
+    "s": 47,
+    "l": 22,
+    "hex": "#541e24",
+    "pinyin": "zhuganzi",
+    "name": "猪肝紫",
+    "names": [
+      "zhuganzi",
+      "猪肝紫"
+    ]
+  },
+  {
+    "h": 350,
+    "s": 78,
+    "l": 18,
+    "hex": "#500a16",
+    "pinyin": "jinyuzi",
+    "name": "金鱼紫",
+    "names": [
+      "oak",
+      "sav",
+      "jinyuzi",
+      "金鱼紫"
+    ]
+  },
+  {
+    "h": 17,
+    "s": 56,
+    "l": 94,
+    "hex": "#f8ebe6",
+    "pinyin": "caozhuhong",
+    "name": "草珠红",
+    "names": [
+      "seashell",
+      "pourri",
+      "pink",
+      "bridesmaid",
+      "not",
+      "chardon",
+      "fantasy",
+      "peach",
+      "sauvignon",
+      "bizarre",
+      "chablis",
+      "linen",
+      "white",
+      "caozhuhong",
+      "草珠红"
+    ]
+  },
+  {
+    "h": 344,
+    "s": 76,
+    "l": 69,
+    "hex": "#ec7696",
+    "pinyin": "danjianghong",
+    "name": "淡绛红",
+    "names": [
+      "palevioletred",
+      "blush",
+      "pink",
+      "sherbet",
+      "danjianghong",
+      "淡绛红"
+    ]
+  },
+  {
+    "h": 340,
+    "s": 85,
+    "l": 57,
+    "hex": "#ef3473",
+    "pinyin": "pinhong",
+    "name": "品红",
+    "names": [
+      "razzmatazz",
+      "pinhong",
+      "品红"
+    ]
+  },
+  {
+    "h": 344,
+    "s": 74,
+    "l": 68,
+    "hex": "#ea7293",
+    "pinyin": "fengxianhuahong",
+    "name": "凤仙花红",
+    "names": [
+      "palevioletred",
+      "blush",
+      "sherbet",
+      "fengxianhuahong",
+      "凤仙花红"
+    ]
+  },
+  {
+    "h": 347,
+    "s": 68,
+    "l": 77,
+    "hex": "#ec9bad",
+    "pinyin": "fentuanhuahong",
+    "name": "粉团花红",
+    "names": [
+      "wewak",
+      "mauvelous",
+      "fentuanhuahong",
+      "粉团花红"
+    ]
+  },
+  {
+    "h": 342,
+    "s": 79,
+    "l": 62,
+    "hex": "#eb507e",
+    "pinyin": "jiazhutaohong",
+    "name": "夹竹桃红",
+    "names": [
+      "cranberry",
+      "rose",
+      "cabaret",
+      "blush",
+      "jiazhutaohong",
+      "夹竹桃红"
+    ]
+  },
+  {
+    "h": 341,
+    "s": 84,
+    "l": 56,
+    "hex": "#ed2f6a",
+    "pinyin": "wenpohong",
+    "name": "榲桲红",
+    "names": [
+      "red",
+      "razzmatazz",
+      "wenpohong",
+      "榲桲红"
+    ]
+  },
+  {
+    "h": 348,
+    "s": 61,
+    "l": 83,
+    "hex": "#eeb8c3",
+    "pinyin": "jianghong",
+    "name": "姜红",
+    "names": [
+      "pink",
+      "blossom",
+      "jianghong",
+      "姜红"
+    ]
+  },
+  {
+    "h": 342,
+    "s": 78,
+    "l": 62,
+    "hex": "#ea517f",
+    "pinyin": "lianbanhong",
+    "name": "莲瓣红",
+    "names": [
+      "cranberry",
+      "rose",
+      "cabaret",
+      "blush",
+      "lianbanhong",
+      "莲瓣红"
+    ]
+  },
+  {
+    "h": 348,
+    "s": 62,
+    "l": 86,
+    "hex": "#f1c4cd",
+    "pinyin": "shuihong",
+    "name": "水红",
+    "names": [
+      "flare",
+      "pink",
+      "shuihong",
+      "水红"
+    ]
+  },
+  {
+    "h": 344,
+    "s": 72,
+    "l": 73,
+    "hex": "#ec8aa4",
+    "pinyin": "baochunhong",
+    "name": "报春红",
+    "names": [
+      "mauvelous",
+      "carissma",
+      "pink",
+      "sherbet",
+      "baochunhong",
+      "报春红"
+    ]
+  },
+  {
+    "h": 344,
+    "s": 55,
+    "l": 57,
+    "hex": "#ce5777",
+    "pinyin": "yuejihong",
+    "name": "月季红",
+    "names": [
+      "cranberry",
+      "cabaret",
+      "blush",
+      "yuejihong",
+      "月季红"
+    ]
+  },
+  {
+    "h": 344,
+    "s": 69,
+    "l": 77,
+    "hex": "#ed9db2",
+    "pinyin": "jiangdouhong",
+    "name": "豇豆红",
+    "names": [
+      "wewak",
+      "mauvelous",
+      "jiangdouhong",
+      "豇豆红"
+    ]
+  },
+  {
+    "h": 343,
+    "s": 77,
+    "l": 72,
+    "hex": "#ef82a0",
+    "pinyin": "xiaguanghong",
+    "name": "霞光红",
+    "names": [
+      "carissma",
+      "pink",
+      "blush",
+      "mauvelous",
+      "sherbet",
+      "xiaguanghong",
+      "霞光红"
+    ]
+  },
+  {
+    "h": 342,
+    "s": 81,
+    "l": 58,
+    "hex": "#eb3c70",
+    "pinyin": "songyemudanhong",
+    "name": "松叶牡丹红",
+    "names": [
+      "red",
+      "cabaret",
+      "razzmatazz",
+      "songyemudanhong",
+      "松叶牡丹红"
+    ]
+  },
+  {
+    "h": 343,
+    "s": 83,
+    "l": 55,
+    "hex": "#ec2c64",
+    "pinyin": "xidanhong",
+    "name": "喜蛋红",
+    "names": [
+      "red",
+      "razzmatazz",
+      "xidanhong",
+      "喜蛋红"
+    ]
+  },
+  {
+    "h": 355,
+    "s": 46,
+    "l": 80,
+    "hex": "#e3b4b8",
+    "pinyin": "shubihong",
+    "name": "鼠鼻红",
+    "names": [
+      "blossom",
+      "pink",
+      "shubihong",
+      "鼠鼻红"
+    ]
+  },
+  {
+    "h": 348,
+    "s": 81,
+    "l": 44,
+    "hex": "#cc163a",
+    "pinyin": "jianjingyuhong",
+    "name": "尖晶玉红",
+    "names": [
+      "crimson",
+      "cardinal",
+      "red",
+      "jianjingyuhong",
+      "尖晶玉红"
+    ]
+  },
+  {
+    "h": 350,
+    "s": 36,
+    "l": 62,
+    "hex": "#c27c88",
+    "pinyin": "shanlidouhong",
+    "name": "山黎豆红",
+    "names": [
+      "rose",
+      "shanlidouhong",
+      "山黎豆红"
+    ]
+  },
+  {
+    "h": 347,
+    "s": 57,
+    "l": 48,
+    "hex": "#bf3553",
+    "pinyin": "jinkuihong",
+    "name": "锦葵红",
+    "names": [
+      "flush",
+      "maroon",
+      "jinkuihong",
+      "锦葵红"
+    ]
+  },
+  {
+    "h": 349,
+    "s": 14,
+    "l": 40,
+    "hex": "#73575c",
+    "pinyin": "shubeihui",
+    "name": "鼠背灰",
+    "names": [
+      "zambezi",
+      "shubeihui",
+      "鼠背灰"
+    ]
+  },
+  {
+    "h": 349,
+    "s": 63,
+    "l": 24,
+    "hex": "#621624",
+    "pinyin": "ganzhezi",
+    "name": "甘蔗紫",
+    "names": [
+      "ganzhezi",
+      "甘蔗紫"
+    ]
+  },
+  {
+    "h": 346,
+    "s": 87,
+    "l": 21,
+    "hex": "#63071c",
+    "pinyin": "shizhuzi",
+    "name": "石竹紫",
+    "names": [
+      "shizhuzi",
+      "石竹紫"
+    ]
+  },
+  {
+    "h": 347,
+    "s": 15,
+    "l": 18,
+    "hex": "#36282b",
+    "pinyin": "cangyinghui",
+    "name": "苍蝇灰",
+    "names": [
+      "thunder",
+      "cangyinghui",
+      "苍蝇灰"
+    ]
+  },
+  {
+    "h": 346,
+    "s": 37,
+    "l": 14,
+    "hex": "#30161c",
+    "pinyin": "luanshizi",
+    "name": "卵石紫",
+    "names": [
+      "luanshizi",
+      "卵石紫"
+    ]
+  },
+  {
+    "h": 350,
+    "s": 41,
+    "l": 12,
+    "hex": "#2b1216",
+    "pinyin": "lizi",
+    "name": "李紫",
+    "names": [
+      "gondola",
+      "lizi",
+      "李紫"
+    ]
+  },
+  {
+    "h": 347,
+    "s": 58,
+    "l": 11,
+    "hex": "#2d0c13",
+    "pinyin": "qiepizi",
+    "name": "茄皮紫",
+    "names": [
+      "qiepizi",
+      "茄皮紫"
+    ]
+  },
+  {
+    "h": 336,
+    "s": 53,
+    "l": 59,
+    "hex": "#ce5e8a",
+    "pinyin": "diaozhonghuahong",
+    "name": "吊钟花红",
+    "names": [
+      "diaozhonghuahong",
+      "吊钟花红"
+    ]
+  },
+  {
+    "h": 337,
+    "s": 81,
+    "l": 62,
+    "hex": "#ec4e8a",
+    "pinyin": "tuyanhong",
+    "name": "兔眼红",
+    "names": [
+      "rose",
+      "red",
+      "tuyanhong",
+      "兔眼红"
+    ]
+  },
+  {
+    "h": 336,
+    "s": 85,
+    "l": 55,
+    "hex": "#ee2c79",
+    "pinyin": "zijinghong",
+    "name": "紫荆红",
+    "names": [
+      "rose",
+      "razzmatazz",
+      "zijinghong",
+      "紫荆红"
+    ]
+  },
+  {
+    "h": 338,
+    "s": 68,
+    "l": 35,
+    "hex": "#951c48",
+    "pinyin": "caitouzi",
+    "name": "菜头紫",
+    "names": [
+      "caitouzi",
+      "菜头紫"
+    ]
+  },
+  {
+    "h": 340,
+    "s": 54,
+    "l": 25,
+    "hex": "#621d34",
+    "pinyin": "yaoguanzi",
+    "name": "鹞冠紫",
+    "names": [
+      "berry",
+      "yaoguanzi",
+      "鹞冠紫"
+    ]
+  },
+  {
+    "h": 338,
+    "s": 72,
+    "l": 22,
+    "hex": "#62102e",
+    "pinyin": "putaojiuhong",
+    "name": "葡萄酒红",
+    "names": [
+      "rose",
+      "putaojiuhong",
+      "葡萄酒红"
+    ]
+  },
+  {
+    "h": 339,
+    "s": 26,
+    "l": 17,
+    "hex": "#382129",
+    "pinyin": "moshizi",
+    "name": "磨石紫",
+    "names": [
+      "moshizi",
+      "磨石紫"
+    ]
+  },
+  {
+    "h": 339,
+    "s": 38,
+    "l": 16,
+    "hex": "#381924",
+    "pinyin": "tanzi",
+    "name": "檀紫",
+    "names": [
+      "tanzi",
+      "檀紫"
+    ]
+  },
+  {
+    "h": 341,
+    "s": 44,
+    "l": 14,
+    "hex": "#33141e",
+    "pinyin": "huoezi",
+    "name": "火鹅紫",
+    "names": [
+      "huoezi",
+      "火鹅紫"
+    ]
+  },
+  {
+    "h": 339,
+    "s": 53,
+    "l": 13,
+    "hex": "#310f1b",
+    "pinyin": "mozi",
+    "name": "墨紫",
+    "names": [
+      "mozi",
+      "墨紫"
+    ]
+  },
+  {
+    "h": 346,
+    "s": 68,
+    "l": 79,
+    "hex": "#eea6b7",
+    "pinyin": "jinghong",
+    "name": "晶红",
+    "names": [
+      "wewak",
+      "jinghong",
+      "晶红"
+    ]
+  },
+  {
+    "h": 336,
+    "s": 84,
+    "l": 61,
+    "hex": "#ef498b",
+    "pinyin": "biandouhuahong",
+    "name": "扁豆花红",
+    "names": [
+      "red",
+      "rose",
+      "biandouhuahong",
+      "扁豆花红"
+    ]
+  },
+  {
+    "h": 342,
+    "s": 61,
+    "l": 67,
+    "hex": "#de7897",
+    "pinyin": "baijihong",
+    "name": "白芨红",
+    "names": [
+      "palevioletred",
+      "blush",
+      "charm",
+      "baijihong",
+      "白芨红"
+    ]
+  },
+  {
+    "h": 337,
+    "s": 71,
+    "l": 56,
+    "hex": "#de3f7c",
+    "pinyin": "nenlinghong",
+    "name": "嫩菱红",
+    "names": [
+      "cranberry",
+      "cabaret",
+      "nenlinghong",
+      "嫩菱红"
+    ]
+  },
+  {
+    "h": 337,
+    "s": 62,
+    "l": 53,
+    "hex": "#d13c74",
+    "pinyin": "bogenhong",
+    "name": "菠根红",
+    "names": [
+      "jam",
+      "bogenhong",
+      "菠根红"
+    ]
+  },
+  {
+    "h": 341,
+    "s": 42,
+    "l": 61,
+    "hex": "#c5708b",
+    "pinyin": "cujiangcaohong",
+    "name": "酢酱草红",
+    "names": [
+      "charm",
+      "cujiangcaohong",
+      "酢酱草红"
+    ]
+  },
+  {
+    "h": 337,
+    "s": 42,
+    "l": 46,
+    "hex": "#a8456b",
+    "pinyin": "yangcongzi",
+    "name": "洋葱紫",
+    "names": [
+      "cadillac",
+      "blush",
+      "rouge",
+      "yangcongzi",
+      "洋葱紫"
+    ]
+  },
+  {
+    "h": 337,
+    "s": 43,
+    "l": 21,
+    "hex": "#4b1e2f",
+    "pinyin": "haixiangzi",
+    "name": "海象紫",
+    "names": [
+      "haixiangzi",
+      "海象紫"
+    ]
+  },
+  {
+    "h": 336,
+    "s": 52,
+    "l": 18,
+    "hex": "#461629",
+    "pinyin": "ganzi",
+    "name": "绀紫",
+    "names": [
+      "ganzi",
+      "绀紫"
+    ]
+  },
+  {
+    "h": 334,
+    "s": 66,
+    "l": 16,
+    "hex": "#440e25",
+    "pinyin": "gutongzi",
+    "name": "古铜紫",
+    "names": [
+      "gutongzi",
+      "古铜紫"
+    ]
+  },
+  {
+    "h": 351,
+    "s": 57,
+    "l": 86,
+    "hex": "#f0c9cf",
+    "pinyin": "shiruihong",
+    "name": "石蕊红",
+    "names": [
+      "flare",
+      "pink",
+      "shiruihong",
+      "石蕊红"
+    ]
+  },
+  {
+    "h": 345,
+    "s": 65,
+    "l": 77,
+    "hex": "#eba0b3",
+    "pinyin": "shaoyaogenghong",
+    "name": "芍药耕红",
+    "names": [
+      "wewak",
+      "mauvelous",
+      "shaoyaogenghong",
+      "芍药耕红"
+    ]
+  },
+  {
+    "h": 336,
+    "s": 83,
+    "l": 55,
+    "hex": "#ec2d7a",
+    "pinyin": "canghuahong",
+    "name": "藏花红",
+    "names": [
+      "rose",
+      "razzmatazz",
+      "canghuahong",
+      "藏花红"
+    ]
+  },
+  {
+    "h": 338,
+    "s": 66,
+    "l": 65,
+    "hex": "#e16c96",
+    "pinyin": "chuhehong",
+    "name": "初荷红",
+    "names": [
+      "palevioletred",
+      "blush",
+      "charm",
+      "chuhehong",
+      "初荷红"
+    ]
+  },
+  {
+    "h": 336,
+    "s": 22,
+    "l": 91,
+    "hex": "#ede3e7",
+    "pinyin": "mabiancaozi",
+    "name": "马鞭草紫",
+    "names": [
+      "peach",
+      "jour",
+      "ebb",
+      "prim",
+      "mabiancaozi",
+      "马鞭草紫"
+    ]
+  },
+  {
+    "h": 333,
+    "s": 29,
+    "l": 88,
+    "hex": "#e9d7df",
+    "pinyin": "dingxiangdanzi",
+    "name": "丁香淡紫",
+    "names": [
+      "lola",
+      "prim",
+      "ice",
+      "peep",
+      "dingxiangdanzi",
+      "丁香淡紫"
+    ]
+  },
+  {
+    "h": 334,
+    "s": 58,
+    "l": 58,
+    "hex": "#d2568c",
+    "pinyin": "danzihong",
+    "name": "丹紫红",
+    "names": [
+      "danzihong",
+      "丹紫红"
+    ]
+  },
+  {
+    "h": 332,
+    "s": 64,
+    "l": 52,
+    "hex": "#d2357d",
+    "pinyin": "meiguihong",
+    "name": "玫瑰红",
+    "names": [
+      "cerise",
+      "meiguihong",
+      "玫瑰红"
+    ]
+  },
+  {
+    "h": 293,
+    "s": 16,
+    "l": 79,
+    "hex": "#d1c2d3",
+    "pinyin": "danqianniuzi",
+    "name": "淡牵牛紫",
+    "names": [
+      "maverick",
+      "danqianniuzi",
+      "淡牵牛紫"
+    ]
+  },
+  {
+    "h": 309,
+    "s": 20,
+    "l": 73,
+    "hex": "#c8adc4",
+    "pinyin": "fengxinzi",
+    "name": "凤信紫",
+    "names": [
+      "lily",
+      "hue",
+      "fengxinzi",
+      "凤信紫"
+    ]
+  },
+  {
+    "h": 320,
+    "s": 28,
+    "l": 65,
+    "hex": "#c08eaf",
+    "pinyin": "luolanzi",
+    "name": "萝兰紫",
+    "names": [
+      "luolanzi",
+      "萝兰紫"
+    ]
+  },
+  {
+    "h": 327,
+    "s": 60,
+    "l": 46,
+    "hex": "#ba2f7b",
+    "pinyin": "meiguizi",
+    "name": "玫瑰紫",
+    "names": [
+      "violet",
+      "heath",
+      "meiguizi",
+      "玫瑰紫"
+    ]
+  },
+  {
+    "h": 253,
+    "s": 20,
+    "l": 55,
+    "hex": "#8076a3",
+    "pinyin": "tengluozi",
+    "name": "藤萝紫",
+    "names": [
+      "tengluozi",
+      "藤萝紫"
+    ]
+  },
+  {
+    "h": 263,
+    "s": 20,
+    "l": 52,
+    "hex": "#806d9e",
+    "pinyin": "jinzi",
+    "name": "槿紫",
+    "names": [
+      "kimberly",
+      "jinzi",
+      "槿紫"
+    ]
+  },
+  {
+    "h": 280,
+    "s": 23,
+    "l": 47,
+    "hex": "#815c94",
+    "pinyin": "xunzi",
+    "name": "蕈紫",
+    "names": [
+      "pink",
+      "xunzi",
+      "蕈紫"
+    ]
+  },
+  {
+    "h": 297,
+    "s": 38,
+    "l": 38,
+    "hex": "#813c85",
+    "pinyin": "jiegengzi",
+    "name": "桔梗紫",
+    "names": [
+      "violet",
+      "plum",
+      "jiegengzi",
+      "桔梗紫"
+    ]
+  },
+  {
+    "h": 308,
+    "s": 70,
+    "l": 29,
+    "hex": "#7e1671",
+    "pinyin": "weizi",
+    "name": "魏紫",
+    "names": [
+      "weizi",
+      "魏紫"
+    ]
+  },
+  {
+    "h": 346,
+    "s": 40,
+    "l": 86,
+    "hex": "#e9ccd3",
+    "pinyin": "zhilanzi",
+    "name": "芝兰紫",
+    "names": [
+      "flare",
+      "ice",
+      "zhilanzi",
+      "芝兰紫"
+    ]
+  },
+  {
+    "h": 331,
+    "s": 51,
+    "l": 64,
+    "hex": "#d276a3",
+    "pinyin": "lingmenghong",
+    "name": "菱锰红",
+    "names": [
+      "hopbush",
+      "lingmenghong",
+      "菱锰红"
+    ]
+  },
+  {
+    "h": 328,
+    "s": 54,
+    "l": 57,
+    "hex": "#cc5595",
+    "pinyin": "longxuhong",
+    "name": "龙须红",
+    "names": [
+      "mulberry",
+      "longxuhong",
+      "龙须红"
+    ]
+  },
+  {
+    "h": 351,
+    "s": 29,
+    "l": 86,
+    "hex": "#e6d2d5",
+    "pinyin": "jifenhong",
+    "name": "蓟粉红",
+    "names": [
+      "ice",
+      "pink",
+      "jifenhong",
+      "蓟粉红"
+    ]
+  },
+  {
+    "h": 328,
+    "s": 48,
+    "l": 55,
+    "hex": "#c35691",
+    "pinyin": "dianqishihong",
+    "name": "电气石红",
+    "names": [
+      "mulberry",
+      "dianqishihong",
+      "电气石红"
+    ]
+  },
+  {
+    "h": 330,
+    "s": 39,
+    "l": 59,
+    "hex": "#c06f98",
+    "pinyin": "yingcaozi",
+    "name": "樱草紫",
+    "names": [
+      "hopbush",
+      "yingcaozi",
+      "樱草紫"
+    ]
+  },
+  {
+    "h": 4,
+    "s": 11,
+    "l": 71,
+    "hex": "#bdaead",
+    "pinyin": "lusuihui",
+    "name": "芦穗灰",
+    "names": [
+      "nobel",
+      "swan",
+      "lusuihui",
+      "芦穗灰"
+    ]
+  },
+  {
+    "h": 341,
+    "s": 16,
+    "l": 65,
+    "hex": "#b598a1",
+    "pinyin": "yinhonghui",
+    "name": "隐红灰",
+    "names": [
+      "yinhonghui",
+      "隐红灰"
+    ]
+  },
+  {
+    "h": 326,
+    "s": 68,
+    "l": 36,
+    "hex": "#9b1e64",
+    "pinyin": "xiancaizi",
+    "name": "苋菜紫",
+    "names": [
+      "jam",
+      "eggplant",
+      "flirt",
+      "xiancaizi",
+      "苋菜紫"
+    ]
+  },
+  {
+    "h": 348,
+    "s": 10,
+    "l": 47,
+    "hex": "#856d72",
+    "pinyin": "luhui",
+    "name": "芦灰",
+    "names": [
+      "pink",
+      "empress",
+      "luhui",
+      "芦灰"
+    ]
+  },
+  {
+    "h": 344,
+    "s": 17,
+    "l": 26,
+    "hex": "#4f383e",
+    "pinyin": "muyunhui",
+    "name": "暮云灰",
+    "names": [
+      "matterhorn",
+      "muyunhui",
+      "暮云灰"
+    ]
+  },
+  {
+    "h": 335,
+    "s": 27,
+    "l": 22,
+    "hex": "#482936",
+    "pinyin": "banjiuhui",
+    "name": "斑鸠灰",
+    "names": [
+      "banjiuhui",
+      "斑鸠灰"
+    ]
+  },
+  {
+    "h": 9,
+    "s": 33,
+    "l": 92,
+    "hex": "#f2e7e5",
+    "pinyin": "dantengluozi",
+    "name": "淡藤萝紫",
+    "names": [
+      "pink",
+      "pourri",
+      "ebb",
+      "bridesmaid",
+      "not",
+      "chardon",
+      "bizarre",
+      "chablis",
+      "fantasy",
+      "sauvignon",
+      "peach",
+      "white",
+      "jour",
+      "dantengluozi",
+      "淡藤萝紫"
+    ]
+  },
+  {
+    "h": 338,
+    "s": 28,
+    "l": 83,
+    "hex": "#e0c8d1",
+    "pinyin": "danqingzi",
+    "name": "淡青紫",
+    "names": [
+      "flare",
+      "lola",
+      "danqingzi",
+      "淡青紫"
+    ]
+  },
+  {
+    "h": 321,
+    "s": 29,
+    "l": 63,
+    "hex": "#bc84a8",
+    "pinyin": "qinghakezi",
+    "name": "青蛤壳紫",
+    "names": [
+      "bouquet",
+      "qinghakezi",
+      "青蛤壳紫"
+    ]
+  },
+  {
+    "h": 318,
+    "s": 31,
+    "l": 54,
+    "hex": "#ad6598",
+    "pinyin": "doukouzi",
+    "name": "豆蔻紫",
+    "names": [
+      "doukouzi",
+      "豆蔻紫"
+    ]
+  },
+  {
+    "h": 317,
+    "s": 28,
+    "l": 50,
+    "hex": "#a35c8f",
+    "pinyin": "biandouzi",
+    "name": "扁豆紫",
+    "names": [
+      "biandouzi",
+      "扁豆紫"
+    ]
+  },
+  {
+    "h": 315,
+    "s": 48,
+    "l": 40,
+    "hex": "#983680",
+    "pinyin": "jiehuazi",
+    "name": "芥花紫",
+    "names": [
+      "jiehuazi",
+      "芥花紫"
+    ]
+  },
+  {
+    "h": 315,
+    "s": 57,
+    "l": 35,
+    "hex": "#8b2671",
+    "pinyin": "qinglian",
+    "name": "青莲",
+    "names": [
+      "plum",
+      "qinglian",
+      "青莲"
+    ]
+  },
+  {
+    "h": 316,
+    "s": 35,
+    "l": 40,
+    "hex": "#894276",
+    "pinyin": "zizi",
+    "name": "芓紫",
+    "names": [
+      "plum",
+      "zizi",
+      "芓紫"
+    ]
+  },
+  {
+    "h": 316,
+    "s": 59,
+    "l": 31,
+    "hex": "#7e2065",
+    "pinyin": "gejinzi",
+    "name": "葛巾紫",
+    "names": [
+      "gejinzi",
+      "葛巾紫"
+    ]
+  },
+  {
+    "h": 316,
+    "s": 64,
+    "l": 25,
+    "hex": "#681752",
+    "pinyin": "qianniuzi",
+    "name": "牵牛紫",
+    "names": [
+      "qianniuzi",
+      "牵牛紫"
+    ]
+  },
+  {
+    "h": 324,
+    "s": 19,
+    "l": 31,
+    "hex": "#5d3f51",
+    "pinyin": "zihui",
+    "name": "紫灰",
+    "names": [
+      "eggplant",
+      "zihui",
+      "紫灰"
+    ]
+  },
+  {
+    "h": 323,
+    "s": 30,
+    "l": 24,
+    "hex": "#4e2a40",
+    "pinyin": "longjingyuzi",
+    "name": "龙睛鱼紫",
+    "names": [
+      "longjingyuzi",
+      "龙睛鱼紫"
+    ]
+  },
+  {
+    "h": 319,
+    "s": 40,
+    "l": 18,
+    "hex": "#411c35",
+    "pinyin": "biqizi",
+    "name": "荸荠紫",
+    "names": [
+      "biqizi",
+      "荸荠紫"
+    ]
+  },
+  {
+    "h": 332,
+    "s": 14,
+    "l": 19,
+    "hex": "#36292f",
+    "pinyin": "gudinghui",
+    "name": "古鼎灰",
+    "names": [
+      "thunder",
+      "gudinghui",
+      "古鼎灰"
+    ]
+  },
+  {
+    "h": 305,
+    "s": 22,
+    "l": 10,
+    "hex": "#1e131d",
+    "pinyin": "wumeizi",
+    "name": "乌梅紫",
+    "names": [
+      "wumeizi",
+      "乌梅紫"
+    ]
+  },
+  {
+    "h": 308,
+    "s": 37,
+    "l": 8,
+    "hex": "#1c0d1a",
+    "pinyin": "shenqianniuzi",
+    "name": "深牵牛紫",
+    "names": [
+      "shenqianniuzi",
+      "深牵牛紫"
+    ]
+  },
+  {
+    "h": 45,
+    "s": 12,
+    "l": 94,
+    "hex": "#f1f0ed",
+    "pinyin": "yinbai",
+    "name": "银白",
+    "names": [
+      "whitesmoke",
+      "snow",
+      "pampas",
+      "wood",
+      "gallery",
+      "seashell",
+      "concrete",
+      "cararra",
+      "sand",
+      "storm",
+      "haze",
+      "drift",
+      "white",
+      "fantasy",
+      "red",
+      "alabaster",
+      "soapstone",
+      "mercury",
+      "porcelain",
+      "romance",
+      "heath",
+      "nurse",
+      "saltpan",
+      "yinbai",
+      "银白"
+    ]
+  },
+  {
+    "h": 260,
+    "s": 5,
+    "l": 89,
+    "hex": "#e2e1e4",
+    "pinyin": "qianshibai",
+    "name": "芡食白",
+    "names": [
+      "gainsboro",
+      "mercury",
+      "jour",
+      "alto",
+      "ebb",
+      "iron",
+      "gray",
+      "gallery",
+      "white",
+      "qianshibai",
+      "芡食白"
+    ]
+  },
+  {
+    "h": 240,
+    "s": 11,
+    "l": 82,
+    "hex": "#ccccd6",
+    "pinyin": "yuanshanzi",
+    "name": "远山紫",
+    "names": [
+      "ghost",
+      "mischka",
+      "gray",
+      "yuanshanzi",
+      "远山紫"
+    ]
+  },
+  {
+    "h": 237,
+    "s": 14,
+    "l": 70,
+    "hex": "#a7a8bd",
+    "pinyin": "danlanzi",
+    "name": "淡蓝紫",
+    "names": [
+      "gray",
+      "pearl",
+      "danlanzi",
+      "淡蓝紫"
+    ]
+  },
+  {
+    "h": 237,
+    "s": 24,
+    "l": 50,
+    "hex": "#61649f",
+    "pinyin": "shangengzi",
+    "name": "山梗紫",
+    "names": [
+      "shangengzi",
+      "山梗紫"
+    ]
+  },
+  {
+    "h": 238,
+    "s": 16,
+    "l": 53,
+    "hex": "#74759b",
+    "pinyin": "luodianzi",
+    "name": "螺甸紫",
+    "names": [
+      "luodianzi",
+      "螺甸紫"
+    ]
+  },
+  {
+    "h": 30,
+    "s": 6,
+    "l": 80,
+    "hex": "#cfccc9",
+    "pinyin": "manaohui",
+    "name": "玛瑙灰",
+    "names": [
+      "lightgray",
+      "lightgrey",
+      "cloud",
+      "gray",
+      "nickel",
+      "timberwolf",
+      "coffee",
+      "swirl",
+      "silver",
+      "manaohui",
+      "玛瑙灰"
+    ]
+  },
+  {
+    "h": 240,
+    "s": 25,
+    "l": 43,
+    "hex": "#525288",
+    "pinyin": "yejuzi",
+    "name": "野菊紫",
+    "names": [
+      "yejuzi",
+      "野菊紫"
+    ]
+  },
+  {
+    "h": 238,
+    "s": 46,
+    "l": 33,
+    "hex": "#2e317c",
+    "pinyin": "mantianxingzi",
+    "name": "满天星紫",
+    "names": [
+      "minsk",
+      "mantianxingzi",
+      "满天星紫"
+    ]
+  },
+  {
+    "h": 351,
+    "s": 3,
+    "l": 46,
+    "hex": "#7a7374",
+    "pinyin": "xinhui",
+    "name": "锌灰",
+    "names": [
+      "xinhui",
+      "锌灰"
+    ]
+  },
+  {
+    "h": 242,
+    "s": 23,
+    "l": 24,
+    "hex": "#302f4b",
+    "pinyin": "yeputaozi",
+    "name": "野葡萄紫",
+    "names": [
+      "martinique",
+      "yeputaozi",
+      "野葡萄紫"
+    ]
+  },
+  {
+    "h": 280,
+    "s": 7,
+    "l": 24,
+    "hex": "#3e3841",
+    "pinyin": "jianfengzi",
+    "name": "剑锋紫",
+    "names": [
+      "gray",
+      "jianfengzi",
+      "剑锋紫"
+    ]
+  },
+  {
+    "h": 255,
+    "s": 11,
+    "l": 21,
+    "hex": "#322f3b",
+    "pinyin": "longkuizi",
+    "name": "龙葵紫",
+    "names": [
+      "longkuizi",
+      "龙葵紫"
+    ]
+  },
+  {
+    "h": 249,
+    "s": 18,
+    "l": 15,
+    "hex": "#22202e",
+    "pinyin": "anlongdanzi",
+    "name": "暗龙胆紫",
+    "names": [
+      "anlongdanzi",
+      "暗龙胆紫"
+    ]
+  },
+  {
+    "h": 238,
+    "s": 35,
+    "l": 19,
+    "hex": "#1f2040",
+    "pinyin": "jingshizi",
+    "name": "晶石紫",
+    "names": [
+      "jingshizi",
+      "晶石紫"
+    ]
+  },
+  {
+    "h": 246,
+    "s": 36,
+    "l": 10,
+    "hex": "#131124",
+    "pinyin": "anlanzi",
+    "name": "暗蓝紫",
+    "names": [
+      "anlanzi",
+      "暗蓝紫"
+    ]
+  },
+  {
+    "h": 207,
+    "s": 65,
+    "l": 43,
+    "hex": "#2775b6",
+    "pinyin": "jingtailan",
+    "name": "景泰蓝",
+    "names": [
+      "lochmara",
+      "jingtailan",
+      "景泰蓝"
+    ]
+  },
+  {
+    "h": 207,
+    "s": 67,
+    "l": 43,
+    "hex": "#2474b5",
+    "pinyin": "niluolan",
+    "name": "尼罗蓝",
+    "names": [
+      "lochmara",
+      "niluolan",
+      "尼罗蓝"
+    ]
+  },
+  {
+    "h": 199,
+    "s": 31,
+    "l": 86,
+    "hex": "#d0dfe6",
+    "pinyin": "yuantianlan",
+    "name": "远天蓝",
+    "names": [
+      "geyser",
+      "botticelli",
+      "yuantianlan",
+      "远天蓝"
+    ]
+  },
+  {
+    "h": 206,
+    "s": 38,
+    "l": 69,
+    "hex": "#93b5cf",
+    "pinyin": "xinglan",
+    "name": "星蓝",
+    "names": [
+      "nepal",
+      "xinglan",
+      "星蓝"
+    ]
+  },
+  {
+    "h": 205,
+    "s": 45,
+    "l": 57,
+    "hex": "#619ac3",
+    "pinyin": "yushandoulan",
+    "name": "羽扇豆蓝",
+    "names": [
+      "yushandoulan",
+      "羽扇豆蓝"
+    ]
+  },
+  {
+    "h": 206,
+    "s": 68,
+    "l": 43,
+    "hex": "#2376b7",
+    "pinyin": "huaqing",
+    "name": "花青",
+    "names": [
+      "lochmara",
+      "huaqing",
+      "花青"
+    ]
+  },
+  {
+    "h": 204,
+    "s": 48,
+    "l": 55,
+    "hex": "#5698c3",
+    "pinyin": "jinglan",
+    "name": "睛蓝",
+    "names": [
+      "jinglan",
+      "睛蓝"
+    ]
+  },
+  {
+    "h": 206,
+    "s": 70,
+    "l": 43,
+    "hex": "#2177b8",
+    "pinyin": "honglan",
+    "name": "虹蓝",
+    "names": [
+      "lochmara",
+      "honglan",
+      "虹蓝"
+    ]
+  },
+  {
+    "h": 193,
+    "s": 42,
+    "l": 78,
+    "hex": "#b0d5df",
+    "pinyin": "hushuilan",
+    "name": "湖水蓝",
+    "names": [
+      "lightblue",
+      "blue",
+      "ziggurat",
+      "mist",
+      "hushuilan",
+      "湖水蓝"
+    ]
+  },
+  {
+    "h": 198,
+    "s": 44,
+    "l": 68,
+    "hex": "#8abcd1",
+    "pinyin": "qiubolan",
+    "name": "秋波蓝",
+    "names": [
+      "glacier",
+      "qiubolan",
+      "秋波蓝"
+    ]
+  },
+  {
+    "h": 199,
+    "s": 48,
+    "l": 59,
+    "hex": "#66a9c9",
+    "pinyin": "jianshilan",
+    "name": "涧石蓝",
+    "names": [
+      "shakespeare",
+      "jianshilan",
+      "涧石蓝"
+    ]
+  },
+  {
+    "h": 203,
+    "s": 64,
+    "l": 45,
+    "hex": "#2983bb",
+    "pinyin": "chaolan",
+    "name": "潮蓝",
+    "names": [
+      "steelblue",
+      "blue",
+      "chaolan",
+      "潮蓝"
+    ]
+  },
+  {
+    "h": 205,
+    "s": 77,
+    "l": 40,
+    "hex": "#1772b4",
+    "pinyin": "qunqing",
+    "name": "群青",
+    "names": [
+      "qunqing",
+      "群青"
+    ]
+  },
+  {
+    "h": 192,
+    "s": 54,
+    "l": 60,
+    "hex": "#63bbd0",
+    "pinyin": "jiqing",
+    "name": "霁青",
+    "names": [
+      "jiqing",
+      "霁青"
+    ]
+  },
+  {
+    "h": 193,
+    "s": 52,
+    "l": 58,
+    "hex": "#5cb3cc",
+    "pinyin": "biqing",
+    "name": "碧青",
+    "names": [
+      "biqing",
+      "碧青"
+    ]
+  },
+  {
+    "h": 201,
+    "s": 67,
+    "l": 43,
+    "hex": "#2486b9",
+    "pinyin": "baoshilan",
+    "name": "宝石蓝",
+    "names": [
+      "steelblue",
+      "blue",
+      "baoshilan",
+      "宝石蓝"
+    ]
+  },
+  {
+    "h": 203,
+    "s": 78,
+    "l": 39,
+    "hex": "#1677b3",
+    "pinyin": "tianlan",
+    "name": "天蓝",
+    "names": [
+      "tianlan",
+      "天蓝"
+    ]
+  },
+  {
+    "h": 206,
+    "s": 81,
+    "l": 38,
+    "hex": "#126bae",
+    "pinyin": "bolinlan",
+    "name": "柏林蓝",
+    "names": [
+      "matisse",
+      "bolinlan",
+      "柏林蓝"
+    ]
+  },
+  {
+    "h": 192,
+    "s": 70,
+    "l": 45,
+    "hex": "#22a2c3",
+    "pinyin": "haiqing",
+    "name": "海青",
+    "names": [
+      "blue",
+      "green",
+      "haiqing",
+      "海青"
+    ]
+  },
+  {
+    "h": 195,
+    "s": 76,
+    "l": 42,
+    "hex": "#1a94bc",
+    "pinyin": "gulan",
+    "name": "钴蓝",
+    "names": [
+      "blue",
+      "gulan",
+      "钴蓝"
+    ]
+  },
+  {
+    "h": 197,
+    "s": 80,
+    "l": 40,
+    "hex": "#158bb8",
+    "pinyin": "yuanweilan",
+    "name": "鸢尾蓝",
+    "names": [
+      "blue",
+      "yuanweilan",
+      "鸢尾蓝"
+    ]
+  },
+  {
+    "h": 202,
+    "s": 82,
+    "l": 38,
+    "hex": "#1177b0",
+    "pinyin": "qianniuhualan",
+    "name": "牵牛花蓝",
+    "names": [
+      "qianniuhualan",
+      "牵牛花蓝"
+    ]
+  },
+  {
+    "h": 210,
+    "s": 83,
+    "l": 35,
+    "hex": "#0f59a4",
+    "pinyin": "feiyancaolan",
+    "name": "飞燕草蓝",
+    "names": [
+      "blue",
+      "endeavour",
+      "tropaz",
+      "azure",
+      "feiyancaolan",
+      "飞燕草蓝"
+    ]
+  },
+  {
+    "h": 207,
+    "s": 61,
+    "l": 43,
+    "hex": "#2b73af",
+    "pinyin": "pinlan",
+    "name": "品蓝",
+    "names": [
+      "pinlan",
+      "品蓝"
+    ]
+  },
+  {
+    "h": 200,
+    "s": 6,
+    "l": 82,
+    "hex": "#cdd1d3",
+    "pinyin": "yinyubai",
+    "name": "银鱼白",
+    "names": [
+      "lightgray",
+      "lightgrey",
+      "gainsboro",
+      "iron",
+      "alto",
+      "yinyubai",
+      "银鱼白"
+    ]
+  },
+  {
+    "h": 208,
+    "s": 55,
+    "l": 42,
+    "hex": "#3170a7",
+    "pinyin": "ananlan",
+    "name": "安安蓝",
+    "names": [
+      "ananlan",
+      "安安蓝"
+    ]
+  },
+  {
+    "h": 228,
+    "s": 7,
+    "l": 40,
+    "hex": "#5e616d",
+    "pinyin": "yuweihui",
+    "name": "鱼尾灰",
+    "names": [
+      "gray",
+      "yuweihui",
+      "鱼尾灰"
+    ]
+  },
+  {
+    "h": 219,
+    "s": 17,
+    "l": 34,
+    "hex": "#475164",
+    "pinyin": "jingyuhui",
+    "name": "鲸鱼灰",
+    "names": [
+      "fiord",
+      "trout",
+      "bed",
+      "jingyuhui",
+      "鲸鱼灰"
+    ]
+  },
+  {
+    "h": 48,
+    "s": 100,
+    "l": 99,
+    "hex": "#fffefa",
+    "pinyin": "haishenhui",
+    "name": "海参灰",
+    "names": [
+      "white",
+      "whitesmoke",
+      "snow",
+      "romance",
+      "wood",
+      "soapstone",
+      "drift",
+      "ceramic",
+      "heath",
+      "storm",
+      "bianca",
+      "pampas",
+      "alabaster",
+      "red",
+      "haze",
+      "lusta",
+      "sand",
+      "fantasy",
+      "concrete",
+      "saltpan",
+      "haishenhui",
+      "海参灰"
+    ]
+  },
+  {
+    "h": 253,
+    "s": 8,
+    "l": 22,
+    "hex": "#35333c",
+    "pinyin": "shayuhui",
+    "name": "沙鱼灰",
+    "names": [
+      "tuna",
+      "shayuhui",
+      "沙鱼灰"
+    ]
+  },
+  {
+    "h": 225,
+    "s": 40,
+    "l": 10,
+    "hex": "#0f1423",
+    "pinyin": "ganglan",
+    "name": "钢蓝",
+    "names": [
+      "vulcan",
+      "ganglan",
+      "钢蓝"
+    ]
+  },
+  {
+    "h": 205,
+    "s": 29,
+    "l": 79,
+    "hex": "#baccd9",
+    "pinyin": "yunshuilan",
+    "name": "云水蓝",
+    "names": [
+      "heather",
+      "yunshuilan",
+      "云水蓝"
+    ]
+  },
+  {
+    "h": 204,
+    "s": 35,
+    "l": 67,
+    "hex": "#8fb2c9",
+    "pinyin": "qingshanlan",
+    "name": "晴山蓝",
+    "names": [
+      "nepal",
+      "qingshanlan",
+      "晴山蓝"
+    ]
+  },
+  {
+    "h": 210,
+    "s": 77,
+    "l": 38,
+    "hex": "#1661ab",
+    "pinyin": "dianqing",
+    "name": "靛青",
+    "names": [
+      "azure",
+      "blue",
+      "dianqing",
+      "靛青"
+    ]
+  },
+  {
+    "h": 202,
+    "s": 10,
+    "l": 79,
+    "hex": "#c4cbcf",
+    "pinyin": "dalishihui",
+    "name": "大理石灰",
+    "names": [
+      "loblolly",
+      "submarine",
+      "sand",
+      "iron",
+      "dalishihui",
+      "大理石灰"
+    ]
+  },
+  {
+    "h": 211,
+    "s": 76,
+    "l": 34,
+    "hex": "#15559a",
+    "pinyin": "haitaolan",
+    "name": "海涛蓝",
+    "names": [
+      "tropaz",
+      "endeavour",
+      "blue",
+      "azure",
+      "haitaolan",
+      "海涛蓝"
+    ]
+  },
+  {
+    "h": 207,
+    "s": 35,
+    "l": 47,
+    "hex": "#4e7ca1",
+    "pinyin": "diechilan",
+    "name": "蝶翅蓝",
+    "names": [
+      "wedgewood",
+      "diechilan",
+      "蝶翅蓝"
+    ]
+  },
+  {
+    "h": 208,
+    "s": 50,
+    "l": 41,
+    "hex": "#346c9c",
+    "pinyin": "haijunlan",
+    "name": "海军蓝",
+    "names": [
+      "matisse",
+      "haijunlan",
+      "海军蓝"
+    ]
+  },
+  {
+    "h": 240,
+    "s": 6,
+    "l": 20,
+    "hex": "#2f2f35",
+    "pinyin": "shuiniuhui",
+    "name": "水牛灰",
+    "names": [
+      "shuiniuhui",
+      "水牛灰"
+    ]
+  },
+  {
+    "h": 233,
+    "s": 9,
+    "l": 19,
+    "hex": "#2d2e36",
+    "pinyin": "niujiaohui",
+    "name": "牛角灰",
+    "names": [
+      "niujiaohui",
+      "牛角灰"
+    ]
+  },
+  {
+    "h": 222,
+    "s": 31,
+    "l": 11,
+    "hex": "#131824",
+    "pinyin": "yanhanlan",
+    "name": "燕颔蓝",
+    "names": [
+      "mirage",
+      "yanhanlan",
+      "燕颔蓝"
+    ]
+  },
+  {
+    "h": 196,
+    "s": 24,
+    "l": 88,
+    "hex": "#d8e3e7",
+    "pinyin": "yunfengbai",
+    "name": "云峰白",
+    "names": [
+      "geyser",
+      "mystic",
+      "yunfengbai",
+      "云峰白"
+    ]
+  },
+  {
+    "h": 197,
+    "s": 30,
+    "l": 82,
+    "hex": "#c3d7df",
+    "pinyin": "jingtianlan",
+    "name": "井天蓝",
+    "names": [
+      "botticelli",
+      "ziggurat",
+      "jingtianlan",
+      "井天蓝"
+    ]
+  },
+  {
+    "h": 198,
+    "s": 59,
+    "l": 45,
+    "hex": "#2f90b9",
+    "pinyin": "yunshanlan",
+    "name": "云山蓝",
+    "names": [
+      "blue",
+      "yunshanlan",
+      "云山蓝"
+    ]
+  },
+  {
+    "h": 200,
+    "s": 77,
+    "l": 40,
+    "hex": "#1781b5",
+    "pinyin": "youlan",
+    "name": "釉蓝",
+    "names": [
+      "steelblue",
+      "cerulean",
+      "blue",
+      "youlan",
+      "釉蓝"
+    ]
+  },
+  {
+    "h": 189,
+    "s": 13,
+    "l": 81,
+    "hex": "#c7d2d4",
+    "pinyin": "oulan",
+    "name": "鸥蓝",
+    "names": [
+      "tiara",
+      "loblolly",
+      "submarine",
+      "geyser",
+      "iron",
+      "oulan",
+      "鸥蓝"
+    ]
+  },
+  {
+    "h": 203,
+    "s": 80,
+    "l": 34,
+    "hex": "#11659a",
+    "pinyin": "tangcilan",
+    "name": "搪磁蓝",
+    "names": [
+      "matisse",
+      "blue",
+      "tangcilan",
+      "搪磁蓝"
+    ]
+  },
+  {
+    "h": 165,
+    "s": 3,
+    "l": 76,
+    "hex": "#c0c4c3",
+    "pinyin": "yueyingbai",
+    "name": "月影白",
+    "names": [
+      "silver",
+      "sand",
+      "yueyingbai",
+      "月影白"
+    ]
+  },
+  {
+    "h": 195,
+    "s": 8,
+    "l": 72,
+    "hex": "#b2bbbe",
+    "pinyin": "xinghui",
+    "name": "星灰",
+    "names": [
+      "submarine",
+      "sand",
+      "xinghui",
+      "星灰"
+    ]
+  },
+  {
+    "h": 200,
+    "s": 18,
+    "l": 45,
+    "hex": "#5e7987",
+    "pinyin": "danlanhui",
+    "name": "淡蓝灰",
+    "names": [
+      "danlanhui",
+      "淡蓝灰"
+    ]
+  },
+  {
+    "h": 206,
+    "s": 71,
+    "l": 27,
+    "hex": "#144a74",
+    "pinyin": "yanlan",
+    "name": "鷃蓝",
+    "names": [
+      "blue",
+      "yanlan",
+      "鷃蓝"
+    ]
+  },
+  {
+    "h": 200,
+    "s": 3,
+    "l": 47,
+    "hex": "#74787a",
+    "pinyin": "nenhui",
+    "name": "嫩灰",
+    "names": [
+      "boulder",
+      "concord",
+      "nenhui",
+      "嫩灰"
+    ]
+  },
+  {
+    "h": 204,
+    "s": 18,
+    "l": 35,
+    "hex": "#495c69",
+    "pinyin": "zhanjianhui",
+    "name": "战舰灰",
+    "names": [
+      "zhanjianhui",
+      "战舰灰"
+    ]
+  },
+  {
+    "h": 228,
+    "s": 3,
+    "l": 29,
+    "hex": "#47484c",
+    "pinyin": "waguanhui",
+    "name": "瓦罐灰",
+    "names": [
+      "waguanhui",
+      "瓦罐灰"
+    ]
+  },
+  {
+    "h": 215,
+    "s": 18,
+    "l": 21,
+    "hex": "#2b333e",
+    "pinyin": "qinghui",
+    "name": "青灰",
+    "names": [
+      "qinghui",
+      "青灰"
+    ]
+  },
+  {
+    "h": 212,
+    "s": 33,
+    "l": 16,
+    "hex": "#1c2938",
+    "pinyin": "gelan",
+    "name": "鸽蓝",
+    "names": [
+      "gelan",
+      "鸽蓝"
+    ]
+  },
+  {
+    "h": 212,
+    "s": 44,
+    "l": 14,
+    "hex": "#142334",
+    "pinyin": "gangqing",
+    "name": "钢青",
+    "names": [
+      "gangqing",
+      "钢青"
+    ]
+  },
+  {
+    "h": 212,
+    "s": 50,
+    "l": 13,
+    "hex": "#101f30",
+    "pinyin": "anlan",
+    "name": "暗蓝",
+    "names": [
+      "anlan",
+      "暗蓝"
+    ]
+  },
+  {
+    "h": 147,
+    "s": 36,
+    "l": 95,
+    "hex": "#eef7f2",
+    "pinyin": "yuebai",
+    "name": "月白",
+    "names": [
+      "mintcream",
+      "saltpan",
+      "gin",
+      "narvik",
+      "squeeze",
+      "panache",
+      "spring",
+      "harp",
+      "drift",
+      "nurse",
+      "haze",
+      "cane",
+      "ceramic",
+      "green",
+      "white",
+      "yuebai",
+      "月白"
+    ]
+  },
+  {
+    "h": 184,
+    "s": 42,
+    "l": 84,
+    "hex": "#c6e6e8",
+    "pinyin": "haitianlan",
+    "name": "海天蓝",
+    "names": [
+      "ice",
+      "ziggurat",
+      "haitianlan",
+      "海天蓝"
+    ]
+  },
+  {
+    "h": 186,
+    "s": 51,
+    "l": 72,
+    "hex": "#93d5dc",
+    "pinyin": "qingshuilan",
+    "name": "清水蓝",
+    "names": [
+      "glory",
+      "qingshuilan",
+      "清水蓝"
+    ]
+  },
+  {
+    "h": 187,
+    "s": 60,
+    "l": 57,
+    "hex": "#51c4d3",
+    "pinyin": "pubulan",
+    "name": "瀑布蓝",
+    "names": [
+      "viking",
+      "scooter",
+      "pubulan",
+      "瀑布蓝"
+    ]
+  },
+  {
+    "h": 187,
+    "s": 66,
+    "l": 48,
+    "hex": "#29b7cb",
+    "pinyin": "weilan",
+    "name": "蔚蓝",
+    "names": [
+      "scooter",
+      "pelorous",
+      "blue",
+      "weilan",
+      "蔚蓝"
+    ]
+  },
+  {
+    "h": 188,
+    "s": 87,
+    "l": 42,
+    "hex": "#0eb0c9",
+    "pinyin": "kongquelan",
+    "name": "孔雀蓝",
+    "names": [
+      "pelorous",
+      "blue",
+      "kongquelan",
+      "孔雀蓝"
+    ]
+  },
+  {
+    "h": 187,
+    "s": 85,
+    "l": 41,
+    "hex": "#10aec2",
+    "pinyin": "dianzilan",
+    "name": "甸子蓝",
+    "names": [
+      "pelorous",
+      "dianzilan",
+      "甸子蓝"
+    ]
+  },
+  {
+    "h": 179,
+    "s": 47,
+    "l": 55,
+    "hex": "#57c3c2",
+    "pinyin": "shilv",
+    "name": "石绿",
+    "names": [
+      "java",
+      "shilv",
+      "石绿"
+    ]
+  },
+  {
+    "h": 146,
+    "s": 36,
+    "l": 80,
+    "hex": "#b9dec9",
+    "pinyin": "zhuhuanglv",
+    "name": "竹篁绿",
+    "names": [
+      "surf",
+      "leaf",
+      "mist",
+      "zhuhuanglv",
+      "竹篁绿"
+    ]
+  },
+  {
+    "h": 154,
+    "s": 41,
+    "l": 65,
+    "hex": "#83cbac",
+    "pinyin": "fenlv",
+    "name": "粉绿",
+    "names": [
+      "blue",
+      "fenlv",
+      "粉绿"
+    ]
+  },
+  {
+    "h": 174,
+    "s": 81,
+    "l": 37,
+    "hex": "#12aa9c",
+    "pinyin": "meidielv",
+    "name": "美蝶绿",
+    "names": [
+      "lightseagreen",
+      "green",
+      "keppel",
+      "meidielv",
+      "美蝶绿"
+    ]
+  },
+  {
+    "h": 145,
+    "s": 42,
+    "l": 58,
+    "hex": "#66c18c",
+    "pinyin": "maolv",
+    "name": "毛绿",
+    "names": [
+      "york",
+      "maolv",
+      "毛绿"
+    ]
+  },
+  {
+    "h": 148,
+    "s": 43,
+    "l": 55,
+    "hex": "#5dbe8a",
+    "pinyin": "koushaolv",
+    "name": "蔻梢绿",
+    "names": [
+      "koushaolv",
+      "蔻梢绿"
+    ]
+  },
+  {
+    "h": 151,
+    "s": 43,
+    "l": 53,
+    "hex": "#55bb8a",
+    "pinyin": "maimiaolv",
+    "name": "麦苗绿",
+    "names": [
+      "tree",
+      "meadow",
+      "maimiaolv",
+      "麦苗绿"
+    ]
+  },
+  {
+    "h": 155,
+    "s": 45,
+    "l": 49,
+    "hex": "#45b787",
+    "pinyin": "walv",
+    "name": "蛙绿",
+    "names": [
+      "meadow",
+      "green",
+      "walv",
+      "蛙绿"
+    ]
+  },
+  {
+    "h": 161,
+    "s": 60,
+    "l": 43,
+    "hex": "#2bae85",
+    "pinyin": "tonglv",
+    "name": "铜绿",
+    "names": [
+      "green",
+      "meadow",
+      "tonglv",
+      "铜绿"
+    ]
+  },
+  {
+    "h": 165,
+    "s": 72,
+    "l": 38,
+    "hex": "#1ba784",
+    "pinyin": "zhulv",
+    "name": "竹绿",
+    "names": [
+      "green",
+      "niagara",
+      "zhulv",
+      "竹绿"
+    ]
+  },
+  {
+    "h": 167,
+    "s": 80,
+    "l": 35,
+    "hex": "#12a182",
+    "pinyin": "lanlv",
+    "name": "蓝绿",
+    "names": [
+      "niagara",
+      "gossamer",
+      "green",
+      "lanlv",
+      "蓝绿"
+    ]
+  },
+  {
+    "h": 177,
+    "s": 19,
+    "l": 81,
+    "hex": "#c4d7d6",
+    "pinyin": "qionghui",
+    "name": "穹灰",
+    "names": [
+      "tiara",
+      "nebula",
+      "conch",
+      "qionghui",
+      "穹灰"
+    ]
+  },
+  {
+    "h": 188,
+    "s": 71,
+    "l": 41,
+    "hex": "#1e9eb3",
+    "pinyin": "cuilan",
+    "name": "翠蓝",
+    "names": [
+      "blue",
+      "green",
+      "cuilan",
+      "翠蓝"
+    ]
+  },
+  {
+    "h": 190,
+    "s": 84,
+    "l": 37,
+    "hex": "#0f95b0",
+    "pinyin": "danfanlan",
+    "name": "胆矾蓝",
+    "names": [
+      "blue",
+      "green",
+      "danfanlan",
+      "胆矾蓝"
+    ]
+  },
+  {
+    "h": 189,
+    "s": 79,
+    "l": 37,
+    "hex": "#1491a8",
+    "pinyin": "jianniaolan",
+    "name": "樫鸟蓝",
+    "names": [
+      "blue",
+      "jianniaolan",
+      "樫鸟蓝"
+    ]
+  },
+  {
+    "h": 187,
+    "s": 25,
+    "l": 59,
+    "hex": "#7cabb1",
+    "pinyin": "shanlan",
+    "name": "闪蓝",
+    "names": [
+      "gumbo",
+      "shanlan",
+      "闪蓝"
+    ]
+  },
+  {
+    "h": 143,
+    "s": 5,
+    "l": 66,
+    "hex": "#a4aca7",
+    "pinyin": "bingshanlan",
+    "name": "冰山蓝",
+    "names": [
+      "edward",
+      "bingshanlan",
+      "冰山蓝"
+    ]
+  },
+  {
+    "h": 180,
+    "s": 11,
+    "l": 57,
+    "hex": "#869d9d",
+    "pinyin": "xiakeqing",
+    "name": "虾壳青",
+    "names": [
+      "smith",
+      "xiakeqing",
+      "虾壳青"
+    ]
+  },
+  {
+    "h": 186,
+    "s": 19,
+    "l": 48,
+    "hex": "#648e93",
+    "pinyin": "wanbolan",
+    "name": "晚波蓝",
+    "names": [
+      "juniper",
+      "wanbolan",
+      "晚波蓝"
+    ]
+  },
+  {
+    "h": 188,
+    "s": 41,
+    "l": 39,
+    "hex": "#3b818c",
+    "pinyin": "qingtinglan",
+    "name": "蜻蜓蓝",
+    "names": [
+      "paradiso",
+      "qingtinglan",
+      "蜻蜓蓝"
+    ]
+  },
+  {
+    "h": 191,
+    "s": 76,
+    "l": 29,
+    "hex": "#126e82",
+    "pinyin": "yuqinlan",
+    "name": "玉鈫蓝",
+    "names": [
+      "yuqinlan",
+      "玉鈫蓝"
+    ]
+  },
+  {
+    "h": 173,
+    "s": 4,
+    "l": 47,
+    "hex": "#737c7b",
+    "pinyin": "ehui",
+    "name": "垩灰",
+    "names": [
+      "sirocco",
+      "ehui",
+      "垩灰"
+    ]
+  },
+  {
+    "h": 184,
+    "s": 8,
+    "l": 41,
+    "hex": "#617172",
+    "pinyin": "xiayunhui",
+    "name": "夏云灰",
+    "names": [
+      "xiayunhui",
+      "夏云灰"
+    ]
+  },
+  {
+    "h": 193,
+    "s": 64,
+    "l": 21,
+    "hex": "#134857",
+    "pinyin": "canglan",
+    "name": "苍蓝",
+    "names": [
+      "dianne",
+      "canglan",
+      "苍蓝"
+    ]
+  },
+  {
+    "h": 192,
+    "s": 3,
+    "l": 29,
+    "hex": "#474b4c",
+    "pinyin": "huanghunhui",
+    "name": "黄昏灰",
+    "names": [
+      "space",
+      "huanghunhui",
+      "黄昏灰"
+    ]
+  },
+  {
+    "h": 193,
+    "s": 30,
+    "l": 18,
+    "hex": "#21373d",
+    "pinyin": "huilan",
+    "name": "灰蓝",
+    "names": [
+      "huilan",
+      "灰蓝"
+    ]
+  },
+  {
+    "h": 193,
+    "s": 46,
+    "l": 14,
+    "hex": "#132c33",
+    "pinyin": "shenhuilan",
+    "name": "深灰蓝",
+    "names": [
+      "firefly",
+      "shenhuilan",
+      "深灰蓝"
+    ]
+  },
+  {
+    "h": 148,
+    "s": 26,
+    "l": 72,
+    "hex": "#a4cab6",
+    "pinyin": "yuzanlv",
+    "name": "玉簪绿",
+    "names": [
+      "rain",
+      "leaf",
+      "yuzanlv",
+      "玉簪绿"
+    ]
+  },
+  {
+    "h": 163,
+    "s": 55,
+    "l": 38,
+    "hex": "#2c9678",
+    "pinyin": "qingfanlv",
+    "name": "青矾绿",
+    "names": [
+      "gossamer",
+      "qingfanlv",
+      "青矾绿"
+    ]
+  },
+  {
+    "h": 155,
+    "s": 22,
+    "l": 67,
+    "hex": "#9abeaf",
+    "pinyin": "caoyuanyuanlv",
+    "name": "草原远绿",
+    "names": [
+      "green",
+      "caoyuanyuanlv",
+      "草原远绿"
+    ]
+  },
+  {
+    "h": 162,
+    "s": 26,
+    "l": 53,
+    "hex": "#69a794",
+    "pinyin": "wuzhilv",
+    "name": "梧枝绿",
+    "names": [
+      "acapulco",
+      "wuzhilv",
+      "梧枝绿"
+    ]
+  },
+  {
+    "h": 155,
+    "s": 18,
+    "l": 64,
+    "hex": "#92b3a5",
+    "pinyin": "langhualv",
+    "name": "浪花绿",
+    "names": [
+      "green",
+      "langhualv",
+      "浪花绿"
+    ]
+  },
+  {
+    "h": 164,
+    "s": 56,
+    "l": 32,
+    "hex": "#248067",
+    "pinyin": "haiwanglv",
+    "name": "海王绿",
+    "names": [
+      "sea",
+      "observatory",
+      "green",
+      "viridian",
+      "forest",
+      "haiwanglv",
+      "海王绿"
+    ]
+  },
+  {
+    "h": 165,
+    "s": 34,
+    "l": 39,
+    "hex": "#428675",
+    "pinyin": "yadinglv",
+    "name": "亚丁绿",
+    "names": [
+      "viridian",
+      "yadinglv",
+      "亚丁绿"
+    ]
+  },
+  {
+    "h": 87,
+    "s": 5,
+    "l": 62,
+    "hex": "#9fa39a",
+    "pinyin": "niehui",
+    "name": "镍灰",
+    "names": [
+      "delta",
+      "dawn",
+      "grass",
+      "dust",
+      "niehui",
+      "镍灰"
+    ]
+  },
+  {
+    "h": 137,
+    "s": 6,
+    "l": 57,
+    "hex": "#8a988e",
+    "pinyin": "minghui",
+    "name": "明灰",
+    "names": [
+      "mantle",
+      "minghui",
+      "明灰"
+    ]
+  },
+  {
+    "h": 153,
+    "s": 10,
+    "l": 49,
+    "hex": "#70887d",
+    "pinyin": "danlvhui",
+    "name": "淡绿灰",
+    "names": [
+      "smoke",
+      "xanadu",
+      "danlvhui",
+      "淡绿灰"
+    ]
+  },
+  {
+    "h": 162,
+    "s": 23,
+    "l": 37,
+    "hex": "#497568",
+    "pinyin": "feiquanlv",
+    "name": "飞泉绿",
+    "names": [
+      "feiquanlv",
+      "飞泉绿"
+    ]
+  },
+  {
+    "h": 135,
+    "s": 4,
+    "l": 38,
+    "hex": "#5d655f",
+    "pinyin": "langyanhui",
+    "name": "狼烟灰",
+    "names": [
+      "langyanhui",
+      "狼烟灰"
+    ]
+  },
+  {
+    "h": 163,
+    "s": 20,
+    "l": 24,
+    "hex": "#314a43",
+    "pinyin": "lvhui",
+    "name": "绿灰",
+    "names": [
+      "lvhui",
+      "绿灰"
+    ]
+  },
+  {
+    "h": 163,
+    "s": 29,
+    "l": 19,
+    "hex": "#223e36",
+    "pinyin": "canglv",
+    "name": "苍绿",
+    "names": [
+      "green",
+      "canglv",
+      "苍绿"
+    ]
+  },
+  {
+    "h": 164,
+    "s": 39,
+    "l": 17,
+    "hex": "#1a3b32",
+    "pinyin": "shenhailv",
+    "name": "深海绿",
+    "names": [
+      "shenhailv",
+      "深海绿"
+    ]
+  },
+  {
+    "h": 20,
+    "s": 3,
+    "l": 21,
+    "hex": "#363433",
+    "pinyin": "changshihui",
+    "name": "长石灰",
+    "names": [
+      "tuatara",
+      "dune",
+      "shaft",
+      "changshihui",
+      "长石灰"
+    ]
+  },
+  {
+    "h": 154,
+    "s": 10,
+    "l": 14,
+    "hex": "#1f2623",
+    "pinyin": "ganlanlv",
+    "name": "苷蓝绿",
+    "names": [
+      "ganlanlv",
+      "苷蓝绿"
+    ]
+  },
+  {
+    "h": 162,
+    "s": 20,
+    "l": 10,
+    "hex": "#141e1b",
+    "pinyin": "mangconglv",
+    "name": "莽丛绿",
+    "names": [
+      "aztec",
+      "mangconglv",
+      "莽丛绿"
+    ]
+  },
+  {
+    "h": 125,
+    "s": 28,
+    "l": 83,
+    "hex": "#c6dfc8",
+    "pinyin": "dancuilv",
+    "name": "淡翠绿",
+    "names": [
+      "surf",
+      "crest",
+      "mist",
+      "leaf",
+      "dancuilv",
+      "淡翠绿"
+    ]
+  },
+  {
+    "h": 137,
+    "s": 31,
+    "l": 71,
+    "hex": "#9eccab",
+    "pinyin": "minglv",
+    "name": "明绿",
+    "names": [
+      "rain",
+      "minglv",
+      "明绿"
+    ]
+  },
+  {
+    "h": 149,
+    "s": 36,
+    "l": 56,
+    "hex": "#68b88e",
+    "pinyin": "tianyuanlv",
+    "name": "田园绿",
+    "names": [
+      "tree",
+      "green",
+      "tianyuanlv",
+      "田园绿"
+    ]
+  },
+  {
+    "h": 151,
+    "s": 67,
+    "l": 38,
+    "hex": "#20a162",
+    "pinyin": "cuilv",
+    "name": "翠绿",
+    "names": [
+      "haze",
+      "jade",
+      "green",
+      "cuilv",
+      "翠绿"
+    ]
+  },
+  {
+    "h": 149,
+    "s": 31,
+    "l": 53,
+    "hex": "#61ac85",
+    "pinyin": "danlv",
+    "name": "淡绿",
+    "names": [
+      "tree",
+      "forest",
+      "green",
+      "danlv",
+      "淡绿"
+    ]
+  },
+  {
+    "h": 150,
+    "s": 43,
+    "l": 44,
+    "hex": "#40a070",
+    "pinyin": "conglv",
+    "name": "葱绿",
+    "names": [
+      "green",
+      "conglv",
+      "葱绿"
+    ]
+  },
+  {
+    "h": 146,
+    "s": 63,
+    "l": 36,
+    "hex": "#229453",
+    "pinyin": "kongquelv",
+    "name": "孔雀绿",
+    "names": [
+      "kongquelv",
+      "孔雀绿"
+    ]
+  },
+  {
+    "h": 94,
+    "s": 15,
+    "l": 80,
+    "hex": "#cad3c3",
+    "pinyin": "ailv",
+    "name": "艾绿",
+    "names": [
+      "tasman",
+      "ash",
+      "ailv",
+      "艾绿"
+    ]
+  },
+  {
+    "h": 148,
+    "s": 43,
+    "l": 41,
+    "hex": "#3c9566",
+    "pinyin": "chanlv",
+    "name": "蟾绿",
+    "names": [
+      "seagreen",
+      "green",
+      "eucalyptus",
+      "chanlv",
+      "蟾绿"
+    ]
+  },
+  {
+    "h": 146,
+    "s": 62,
+    "l": 33,
+    "hex": "#20894d",
+    "pinyin": "gongdianlv",
+    "name": "宫殿绿",
+    "names": [
+      "seagreen",
+      "green",
+      "eucalyptus",
+      "salem",
+      "gongdianlv",
+      "宫殿绿"
+    ]
+  },
+  {
+    "h": 137,
+    "s": 17,
+    "l": 58,
+    "hex": "#83a78d",
+    "pinyin": "songshuanglv",
+    "name": "松霜绿",
+    "names": [
+      "leaf",
+      "envy",
+      "oxley",
+      "amulet",
+      "songshuanglv",
+      "松霜绿"
+    ]
+  },
+  {
+    "h": 146,
+    "s": 26,
+    "l": 46,
+    "hex": "#579572",
+    "pinyin": "danbaishilv",
+    "name": "蛋白石绿",
+    "names": [
+      "danbaishilv",
+      "蛋白石绿"
+    ]
+  },
+  {
+    "h": 148,
+    "s": 60,
+    "l": 31,
+    "hex": "#207f4c",
+    "pinyin": "bohelv",
+    "name": "薄荷绿",
+    "names": [
+      "salem",
+      "goblin",
+      "bohelv",
+      "薄荷绿"
+    ]
+  },
+  {
+    "h": 132,
+    "s": 12,
+    "l": 49,
+    "hex": "#6e8b74",
+    "pinyin": "wasonglv",
+    "name": "瓦松绿",
+    "names": [
+      "green",
+      "laurel",
+      "wasonglv",
+      "瓦松绿"
+    ]
+  },
+  {
+    "h": 149,
+    "s": 60,
+    "l": 25,
+    "hex": "#1a6840",
+    "pinyin": "heyelv",
+    "name": "荷叶绿",
+    "names": [
+      "jewel",
+      "pea",
+      "heyelv",
+      "荷叶绿"
+    ]
+  },
+  {
+    "h": 104,
+    "s": 6,
+    "l": 38,
+    "hex": "#5e665b",
+    "pinyin": "tianluolv",
+    "name": "田螺绿",
+    "names": [
+      "tianluolv",
+      "田螺绿"
+    ]
+  },
+  {
+    "h": 136,
+    "s": 12,
+    "l": 32,
+    "hex": "#485b4d",
+    "pinyin": "baiqucailv",
+    "name": "白屈菜绿",
+    "names": [
+      "nandor",
+      "asparagus",
+      "baiqucailv",
+      "白屈菜绿"
+    ]
+  },
+  {
+    "h": 40,
+    "s": 6,
+    "l": 21,
+    "hex": "#393733",
+    "pinyin": "hetunhui",
+    "name": "河豚灰",
+    "names": [
+      "dune",
+      "tuatara",
+      "masala",
+      "hetunhui",
+      "河豚灰"
+    ]
+  },
+  {
+    "h": 75,
+    "s": 4,
+    "l": 21,
+    "hex": "#373834",
+    "pinyin": "enyoulv",
+    "name": "蒽油绿",
+    "names": [
+      "tuatara",
+      "dune",
+      "enyoulv",
+      "蒽油绿"
+    ]
+  },
+  {
+    "h": 130,
+    "s": 7,
+    "l": 18,
+    "hex": "#2b312c",
+    "pinyin": "hujishenglv",
+    "name": "槲寄生绿",
+    "names": [
+      "metal",
+      "hujishenglv",
+      "槲寄生绿"
+    ]
+  },
+  {
+    "h": 146,
+    "s": 25,
+    "l": 11,
+    "hex": "#15231b",
+    "pinyin": "yunshanlv",
+    "name": "云杉绿",
+    "names": [
+      "yunshanlv",
+      "云杉绿"
+    ]
+  },
+  {
+    "h": 79,
+    "s": 44,
+    "l": 93,
+    "hex": "#f0f5e5",
+    "pinyin": "nenjulv",
+    "name": "嫩菊绿",
+    "names": [
+      "ivory",
+      "loafer",
+      "white",
+      "feta",
+      "swizzle",
+      "blue",
+      "cake",
+      "frost",
+      "nenjulv",
+      "嫩菊绿"
+    ]
+  },
+  {
+    "h": 94,
+    "s": 38,
+    "l": 88,
+    "hex": "#dfecd5",
+    "pinyin": "aibeilv",
+    "name": "艾背绿",
+    "names": [
+      "kidnapper",
+      "zanah",
+      "brook",
+      "peppermint",
+      "frost",
+      "white",
+      "loafer",
+      "blue",
+      "aibeilv",
+      "艾背绿"
+    ]
+  },
+  {
+    "h": 107,
+    "s": 38,
+    "l": 74,
+    "hex": "#add5a2",
+    "pinyin": "jialingshuilv",
+    "name": "嘉陵水绿",
+    "names": [
+      "green",
+      "celadon",
+      "jialingshuilv",
+      "嘉陵水绿"
+    ]
+  },
+  {
+    "h": 124,
+    "s": 47,
+    "l": 48,
+    "hex": "#41b349",
+    "pinyin": "yusuilv",
+    "name": "玉髓绿",
+    "names": [
+      "apple",
+      "yusuilv",
+      "玉髓绿"
+    ]
+  },
+  {
+    "h": 121,
+    "s": 45,
+    "l": 48,
+    "hex": "#43b244",
+    "pinyin": "xianlv",
+    "name": "鲜绿",
+    "names": [
+      "apple",
+      "xianlv",
+      "鲜绿"
+    ]
+  },
+  {
+    "h": 117,
+    "s": 49,
+    "l": 46,
+    "hex": "#41ae3c",
+    "pinyin": "baoshilv",
+    "name": "宝石绿",
+    "names": [
+      "apple",
+      "baoshilv",
+      "宝石绿"
+    ]
+  },
+  {
+    "h": 68,
+    "s": 45,
+    "l": 83,
+    "hex": "#e2e7bf",
+    "pinyin": "haimeilv",
+    "name": "海沬绿",
+    "names": [
+      "green",
+      "sands",
+      "julep",
+      "tusk",
+      "haimeilv",
+      "海沬绿"
+    ]
+  },
+  {
+    "h": 76,
+    "s": 44,
+    "l": 77,
+    "hex": "#d0deaa",
+    "pinyin": "yaohuang",
+    "name": "姚黄",
+    "names": [
+      "caper",
+      "yaohuang",
+      "姚黄"
+    ]
+  },
+  {
+    "h": 84,
+    "s": 43,
+    "l": 67,
+    "hex": "#b2cf87",
+    "pinyin": "ganlanshilv",
+    "name": "橄榄石绿",
+    "names": [
+      "ganlanshilv",
+      "橄榄石绿"
+    ]
+  },
+  {
+    "h": 96,
+    "s": 42,
+    "l": 59,
+    "hex": "#8cc269",
+    "pinyin": "shuilv",
+    "name": "水绿",
+    "names": [
+      "shuilv",
+      "水绿"
+    ]
+  },
+  {
+    "h": 77,
+    "s": 48,
+    "l": 65,
+    "hex": "#b7d07a",
+    "pinyin": "luweilv",
+    "name": "芦苇绿",
+    "names": [
+      "luweilv",
+      "芦苇绿"
+    ]
+  },
+  {
+    "h": 64,
+    "s": 56,
+    "l": 66,
+    "hex": "#d2d97a",
+    "pinyin": "huaihuahuanglv",
+    "name": "槐花黄绿",
+    "names": [
+      "huaihuahuanglv",
+      "槐花黄绿"
+    ]
+  },
+  {
+    "h": 72,
+    "s": 52,
+    "l": 60,
+    "hex": "#bacf65",
+    "pinyin": "pingguolv",
+    "name": "苹果绿",
+    "names": [
+      "celery",
+      "willow",
+      "pingguolv",
+      "苹果绿"
+    ]
+  },
+  {
+    "h": 83,
+    "s": 49,
+    "l": 53,
+    "hex": "#96c24e",
+    "pinyin": "yalv",
+    "name": "芽绿",
+    "names": [
+      "yalv",
+      "芽绿"
+    ]
+  },
+  {
+    "h": 56,
+    "s": 73,
+    "l": 59,
+    "hex": "#e2d849",
+    "pinyin": "diehuang",
+    "name": "蝶黄",
+    "names": [
+      "wattle",
+      "confetti",
+      "sunflower",
+      "diehuang",
+      "蝶黄"
+    ]
+  },
+  {
+    "h": 64,
+    "s": 58,
+    "l": 50,
+    "hex": "#bec936",
+    "pinyin": "ganlanhuanglv",
+    "name": "橄榄黄绿",
+    "names": [
+      "pie",
+      "rioja",
+      "ganlanhuanglv",
+      "橄榄黄绿"
+    ]
+  },
+  {
+    "h": 96,
+    "s": 67,
+    "l": 41,
+    "hex": "#5bae23",
+    "pinyin": "yingwulv",
+    "name": "鹦鹉绿",
+    "names": [
+      "christi",
+      "yingwulv",
+      "鹦鹉绿"
+    ]
+  },
+  {
+    "h": 118,
+    "s": 26,
+    "l": 19,
+    "hex": "#253d24",
+    "pinyin": "youlv",
+    "name": "油绿",
+    "names": [
+      "youlv",
+      "油绿"
+    ]
+  },
+  {
+    "h": 51,
+    "s": 100,
+    "l": 99,
+    "hex": "#fffef8",
+    "pinyin": "xiangyabai",
+    "name": "象牙白",
+    "names": [
+      "white",
+      "floralwhite",
+      "bianca",
+      "ceramic",
+      "lusta",
+      "wood",
+      "heath",
+      "drift",
+      "soapstone",
+      "pampas",
+      "romance",
+      "storm",
+      "cane",
+      "alabaster",
+      "saltpan",
+      "cararra",
+      "red",
+      "xiangyabai",
+      "象牙白"
+    ]
+  },
+  {
+    "h": 38,
+    "s": 44,
+    "l": 95,
+    "hex": "#f8f4ed",
+    "pinyin": "hanbaiyu",
+    "name": "汉白玉",
+    "names": [
+      "floralwhite",
+      "seashell",
+      "linen",
+      "wood",
+      "heath",
+      "pampas",
+      "bianca",
+      "merino",
+      "lusta",
+      "cararra",
+      "white",
+      "peach",
+      "fantasy",
+      "pink",
+      "soapstone",
+      "storm",
+      "hanbaiyu",
+      "汉白玉"
+    ]
+  },
+  {
+    "h": 50,
+    "s": 100,
+    "l": 99,
+    "hex": "#fffef9",
+    "pinyin": "xuebai",
+    "name": "雪白",
+    "names": [
+      "white",
+      "floralwhite",
+      "whitesmoke",
+      "snow",
+      "wood",
+      "ceramic",
+      "bianca",
+      "heath",
+      "soapstone",
+      "drift",
+      "romance",
+      "lusta",
+      "pampas",
+      "storm",
+      "alabaster",
+      "red",
+      "haze",
+      "saltpan",
+      "fantasy",
+      "cararra",
+      "sand",
+      "xuebai",
+      "雪白"
+    ]
+  },
+  {
+    "h": 42,
+    "s": 38,
+    "l": 95,
+    "hex": "#f7f4ed",
+    "pinyin": "yudubai",
+    "name": "鱼肚白",
+    "names": [
+      "floralwhite",
+      "seashell",
+      "linen",
+      "wood",
+      "pampas",
+      "bianca",
+      "heath",
+      "cararra",
+      "merino",
+      "lusta",
+      "white",
+      "fantasy",
+      "peach",
+      "pink",
+      "soapstone",
+      "ceramic",
+      "storm",
+      "drift",
+      "yudubai",
+      "鱼肚白"
+    ]
+  },
+  {
+    "h": 37,
+    "s": 19,
+    "l": 87,
+    "hex": "#e4dfd7",
+    "pinyin": "zhenzhuhui",
+    "name": "珍珠灰",
+    "names": [
+      "westar",
+      "bush",
+      "timberwolf",
+      "gray",
+      "zhenzhuhui",
+      "珍珠灰"
+    ]
+  },
+  {
+    "h": 36,
+    "s": 17,
+    "l": 83,
+    "hex": "#dad4cb",
+    "pinyin": "qianhui",
+    "name": "浅灰",
+    "names": [
+      "timberwolf",
+      "swirl",
+      "westar",
+      "bush",
+      "gray",
+      "celeste",
+      "qianhui",
+      "浅灰"
+    ]
+  },
+  {
+    "h": 36,
+    "s": 10,
+    "l": 70,
+    "hex": "#bbb5ac",
+    "pinyin": "qianhui",
+    "name": "铅灰",
+    "names": [
+      "tide",
+      "tea",
+      "seed",
+      "silk",
+      "nomad",
+      "qianhui",
+      "铅灰"
+    ]
+  },
+  {
+    "h": 36,
+    "s": 10,
+    "l": 70,
+    "hex": "#bbb5ac",
+    "pinyin": "zhonghui",
+    "name": "中灰",
+    "names": [
+      "tide",
+      "tea",
+      "seed",
+      "silk",
+      "nomad",
+      "zhonghui",
+      "中灰"
+    ]
+  },
+  {
+    "h": 30,
+    "s": 6,
+    "l": 49,
+    "hex": "#867e76",
+    "pinyin": "wahui",
+    "name": "瓦灰",
+    "names": [
+      "schooner",
+      "gray",
+      "squirrel",
+      "wahui",
+      "瓦灰"
+    ]
+  },
+  {
+    "h": 30,
+    "s": 6,
+    "l": 49,
+    "hex": "#847c74",
+    "pinyin": "yehui",
+    "name": "夜灰",
+    "names": [
+      "schooner",
+      "gray",
+      "tapa",
+      "squirrel",
+      "yehui",
+      "夜灰"
+    ]
+  },
+  {
+    "h": 27,
+    "s": 8,
+    "l": 47,
+    "hex": "#80766e",
+    "pinyin": "yanhui",
+    "name": "雁灰",
+    "names": [
+      "sandstone",
+      "tapa",
+      "yanhui",
+      "雁灰"
+    ]
+  },
+  {
+    "h": 28,
+    "s": 8,
+    "l": 47,
+    "hex": "#81776e",
+    "pinyin": "shenhui",
+    "name": "深灰",
+    "names": [
+      "sandstone",
+      "shenhui",
+      "深灰"
+    ]
+  }
+]
