@@ -5,5 +5,5 @@ Inspired by [iroiro](https://github.com/antfu/iroiro), and the data come from [h
 # usage
 
 <pre align='center'>
-npx <b>china-colors</b> <em>&lt;color-name&gt;</em>
+npx <b>cncolors</b> <em>&lt;color-name&gt;</em>
 </pre>

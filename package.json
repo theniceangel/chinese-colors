@@ -1,12 +1,12 @@
 {
-  "name": "china-colors",
+  "name": "cncolors",
   "version": "0.0.2",
   "description": "chinese traditional colors",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "bin": {
-    "cc": "bin/cc.js"
+    "cnc": "bin/cc.js"
   },
   "scripts": {
     "dev": "esno src/cli.ts",
