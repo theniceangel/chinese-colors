@@ -1,6 +1,6 @@
 {
   "name": "chinese-colors",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "chinese traditional colors",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -10,10 +10,11 @@
   },
   "scripts": {
     "dev": "esno src/cli.ts",
-    "build": "tsup src/cli.ts src/index.ts --format cjs,esm --dts",
+    "build": "tsup src/cli.ts src/index.ts --format cjs,esm --dts --minify",
     "bundle": "run-s prepareJSON build",
     "prepareJSON": "esno scripts/build.ts",
-    "release": "standard-version"
+    "bumpVersion": "standard-version",
+    "release": "run-s build bumpVersion"
   },
   "repository": {
     "type": "git",
